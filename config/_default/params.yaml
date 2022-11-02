@@ -4,8 +4,11 @@ twitter_cards: true
 readmore: false
 authorbox: false
 pager: true
-post_meta: [date, categories]
-mainSections: [posts]
+post_meta:
+  - date
+  - categories
+mainSections:
+  - posts
 
 logo:
   image: /Logo.jpg
@@ -16,7 +19,11 @@ sidebar:
   home: right
   list: right
   single:
-  widgets: [recent, social, categories, taglist]
+  widgets:
+    - recent
+    - social
+    - categories
+    - taglist
 
 widgets:
   recent_num: 5
