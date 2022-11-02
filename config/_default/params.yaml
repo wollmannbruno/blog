@@ -28,4 +28,4 @@ widgets:
 
 style:
   vars:
-    highlightColor: #0288d1
+    highlightColor: "#0288d1"
