@@ -5,7 +5,7 @@ description:
 lead: 
 summary: 
 date: {{ .Date }}
-thumbnail: https://via.placeholder.com/600x300/0288d1/000000?text=BrunoWollmann.com
+thumbnail: https://via.placeholder.com/600x300/0288d1/000000?text={{ .Name }}
 categories:
   - 
 tags:
