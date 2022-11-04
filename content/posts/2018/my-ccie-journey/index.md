@@ -50,13 +50,13 @@ I attended the CCIE boot camps at Global Knowledge, purchased the lab workbooks 
 
 ### Step into the Ring - CCIE 1st Attempt
 
-{{< figure src="images/june-19-2007.jpg" caption="visitor's badge" alt="visitor's badge" width=300 >}}
+{{< figure src="images/june-19-2007.jpg" caption="visitor's badge" alt="visitor's badge" width="300" >}}
 
 After doing well in my lab sessions, my plan was simple. Show up, pass the exam, go home with my shiny new digits.
 
 However...
 
-> **"Everyone has a plan until they’ve been hit.**" - *Joe Louis*
+> **"Everyone has a plan until they’ve been hit."** - *Joe Louis*
 
 The proctor said "go," and I dived into the exam. The first couple of tasks went well, and I was feeling good about the experience. Then I got hit.
 
@@ -74,7 +74,7 @@ I had three takeaways. 1, I was completely capable of crushing that exam. 2, dev
 
 ## CCIE LAB EXAM ROUND TWO
 
-{{< figure src="images/january-14-2008.jpg" caption="visitor's badge" alt="visitor's badge" width=300 >}}
+{{< figure src="images/january-14-2008.jpg" caption="visitor's badge" alt="visitor's badge" width="300" >}}
 
 After returning home, beaten but not defeated, I took another couple of months off from studying. I needed to recharge my batteries and spend time with my family. It was summer in Saskatchewan and summer is not to be missed here.
 
@@ -124,11 +124,11 @@ When I left the exam room that day, I knew I had passed, and I couldn't wait to 
 
 I've coached enough sports (i.e., tae kwon do, hockey and baseball) for enough years to know that when introducing a new skill, refreshing a current skill, or if a player is having trouble with a technique or concept, slowing things down is often the best first step. This has never been truer than in my preparation for the CCIE lab exam.
 
-Although the formula knowledge=speed isn't as famous as the formulas knowledge=power, e=mc<sup>2</sup>, or a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup>, it's every bit as true. Studying for knowledge increased my speed. Slowing down the labs and trying multiple ways to accomplish a task allowed me to learn the basics of each protocol (i.e., Spanning Tree, OSPF, EIGRP, BGP, etc.) at a deeper level. As a result, I became quicker and more creative with my solutions and also with my troubleshooting.
+Although the formula **knowledge=speed** isn't as famous as the formulas **knowledge=power**, **e=mc<sup>2</sup>**, or **a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup>**, it's every bit as true. Studying for knowledge increased my speed. Slowing down the labs and trying multiple ways to accomplish a task allowed me to learn the basics of each protocol (i.e., Spanning Tree, OSPF, EIGRP, BGP, etc.) at a deeper level. As a result, I became quicker and more creative with my solutions and also with my troubleshooting.
 
 ### Value of the CCIE
 
-My CCIE number is 19817. In 2008 there was much talk about certification devaluation from there being too many (&gt;20K) CCIE's. While that debate rages on today, I think there are a few points to consider. It takes heart, persistence, dedication and determination to attain the CCIE and I don't believe any employer will ever devalue those character traits. Also, attaining your digits shouldn't be the end goal, causing you to rest on your laurels and allowing your knowledge to collect dust. Stay current, stay active, keep learning, apply that knowledge somewhere, challenge yourself and keep growing.
+My CCIE number is 19817. In 2008 there was much talk about certification devaluation from there being too many (>20K) CCIE's. While that debate rages on today, I think there are a few points to consider. It takes heart, persistence, dedication and determination to attain the CCIE and I don't believe any employer will ever devalue those character traits. Also, attaining your digits shouldn't be the end goal, causing you to rest on your laurels and allowing your knowledge to collect dust. Stay current, stay active, keep learning, apply that knowledge somewhere, challenge yourself and keep growing.
 
 ### Last Word
 
