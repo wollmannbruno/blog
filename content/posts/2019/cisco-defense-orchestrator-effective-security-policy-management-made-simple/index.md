@@ -1,0 +1,21 @@
+---
+draft: false
+title: "Cisco Defense Orchestrator: Effective Security Policy Management Made Simple"
+description: Maintaining consistent security policy across a fleet of identical devices is
+  very difficult for any operations team. Throw in a mix of device types...
+lead: Get your security life in order
+summary: Maintaining consistent security policy across a fleet of identical devices is
+  very difficult for any operations team. Throw in a mix of device types...
+date: 2019-08-11T16:31:26-06:00
+thumbnail: images/cisco-defense-orchestrator-effective-security-policy-management-made-simple.jpg
+categories:
+  - Guest Blogs
+tags:
+  - CLUS
+  - GestaltIT
+  - TFD
+---
+---
+Maintaining consistent security policy across a fleet of identical devices is very difficult for any operations team. Throw in a mix of device types, and this task becomes even harder. Try to accomplish this manually, and mistakes will happen. Read about Cisco's answer to this problem in a [post I wrote for Gestalt IT](https://gestaltit.com/exclusive/bwollmann/cisco-defense-orchestrator-effective-security-policy-management-made-simple/).
+
+---
