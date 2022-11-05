@@ -1,8 +1,10 @@
 description: Bruno Wollmann's blog about Networking
 opengraph: true
+schema: true
 twitter_cards: true
-readmore: false
+readmore: true
 authorbox: false
+toc: false
 pager: true
 post_meta:
   - date
@@ -18,7 +20,7 @@ logo:
 sidebar:
   home: right
   list: right
-  single:
+  single: false
   widgets:
     - recent
     - social
