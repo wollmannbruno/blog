@@ -1,9 +1,11 @@
 ---
 draft: false
 title: Networking Field Day 18 Wrap Up
-description: I had the honour of being selected as a delegate for [Networking Field Day 18](https://techfieldday.com/event/nfd18/), \#NFD18 on Twitter. This was my first...
+description: I had the honour of being selected as a delegate for Networking Field Day 18,
+  \#NFD18 on Twitter. This was my first Tech Field Day event...
 lead: A Newbie at Networking Field Day
-summary: I had the honour of being selected as a delegate for [Networking Field Day 18](https://techfieldday.com/event/nfd18/), \#NFD18 on Twitter. This was my first Tech Field Day event...
+summary: I had the honour of being selected as a delegate for Networking Field Day 18,
+  \#NFD18 on Twitter. This was my first Tech Field Day event...
 date: 2018-07-21T17:29:03-06:00
 thumbnail: images/networking-field-day-18-wrap-up.jpg
 categories:
