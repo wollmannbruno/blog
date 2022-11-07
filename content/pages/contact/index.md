@@ -29,9 +29,9 @@ Because I'm self-employed, I'm open to discovering how I might help your busines
 
 ## Contact Methods
 
-I usually have some form of an electronic leash with me, so I'm pretty easy to reach.
+I'm usually bound by some form of an electronic leash, so I'm pretty easy to reach.
 
-[<img src="images/twitter.png" alt="Twitter icon" width="35" title="Twitter"/>](https://twitter.com/wollmannbruno) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno) and I have a Twitter app on all my devices.
+[<img src="images/twitter.png" alt="Twitter icon" width="35" title="Twitter"/>](https://twitter.com/wollmannbruno/) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno/) and I have a Twitter app on all my devices.
 
 [<img src="images/linkedin.png" alt="LinkedIn icon" width="35" title="LinkedIn"/>](https://linkedin.com/in/wollmannbruno/) I'm also available on [LinkedIn](https://linkedin.com/in/wollmannbruno/).
 
