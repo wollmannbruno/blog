@@ -18,11 +18,11 @@ Because I'm self-employed, I'm open to discovering how I might help your busines
 - Short-term services
   - Design reviews
   - Network assessments
+  - Troubleshooting
 - Part-time projects
-  - Where meetings are limited to 1 or 2 per week
-  - Where design sessions are limited to 1 or 2 per week
+  - Where meetings/sessions are limited to 1 or 2 per week
 - Full-time projects
-  - Where constant communication with a larger design team is required
+  - Where constant communication with a larger team is required
 - Permanent employment
   - I really like being self-employed
   - This option is unlikely, but I would entertain the conversation
@@ -35,6 +35,6 @@ I usually have some form of an electronic leash with me, so I'm pretty easy to r
 
 [<img src="images/linkedin.png" alt="LinkedIn icon" width="35" title="LinkedIn"/>](https://linkedin.com/in/wollmannbruno/) I'm also available on [LinkedIn](https://linkedin.com/in/wollmannbruno/).
 
-[<img src="images/email.png" alt="email icon" width="35" title="Masked email"/>](mailto:agile.plan4376@fastmail.com) For longer forms of communication, you can reack me at this [masked email](mailto:agile.plan4376@fastmail.com).
+[<img src="images/email.png" alt="email icon" width="35" title="Masked email"/>](mailto:agile.plan4376@fastmail.com) For longer forms of communication, you can reach me at this [masked email](mailto:agile.plan4376@fastmail.com).
 
 ---
