@@ -1,1 +1,2 @@
 posts: /:year/:month/:title/
+pages: /:title/
