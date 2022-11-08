@@ -23,7 +23,7 @@ On October 21, 2021, Intel delivered three presentations to the delegates at Sec
 
 Onboarding of IoT devices is a significant challenge in the industry. It is expensive because it can take anywhere from twenty minutes to several hours to deploy a single device. It is insecure because installers often need to know network and application credentials as part of the configuration process.
 
-![The Onboarding Problem](https://brunowollmann.com/wp-content/uploads/2021/10/xfd6-intel-fdo-1.png "The Onboarding Problem")
+![The Onboarding Problem](images/xfd6-intel-fdo-1.png "The Onboarding Problem")
 
 Adding to the problem is the fact that the world of IoT is massively fragmented. There are myriad hardware form factors, operating systems, and processor types deployed across the device spectrum. Some devices have displays, while many do not. Some connect to wireless networks while others attach to wired.
 
@@ -31,7 +31,7 @@ Adding to the problem is the fact that the world of IoT is massively fragmented.
 
 [FIDO](https://fidoalliance.org/) stands for Fast ID Online and is an industry alliance between global tech leaders (i.e., cloud providers, semiconductor companies, and security companies). Its primary focus is on removing the need for passwords. It was a natural fit for this group to tackle the challenges discussed above.
 
-![What is FIDO and FDO?](https://brunowollmann.com/wp-content/uploads/2021/10/xfd6-intel-fdo-2.png "What is FIDO and FDO?")
+![What is FIDO and FDO?](images/xfd6-intel-fdo-2.png "What is FIDO and FDO?")
 
 FDO stands for FIDO Device Onboard and is a specification created by the FIDO IoT Working Group. After reviewing a set of use cases submitted by its members, the group decided to base FDO on Intel's Secure Device Onboard (SDO) specification.
 
@@ -43,7 +43,7 @@ In addition to increasing security, the goals of FDO are to offer flexibility to
 
 The FDO concept is built on the foundations of simplicity and security. The ultimate goal is to ship an IoT device to its location, have a semi-skilled resource install and power it up, then have provisioning and onboarding completed automatically and securely.
 
-![How FDO Works](https://brunowollmann.com/wp-content/uploads/2021/10/xfd6-intel-fdo-3.png "How FDO Works")
+![How FDO Works](images/xfd6-intel-fdo-3.png "How FDO Works")
 
 The FDO process has the following steps:
 
@@ -58,7 +58,7 @@ The FDO process has the following steps:
 
 FDO offers many advantages to device deployments compared to manual processes. Frankly, any Zero Touch Provisioning (ZTP) process is a significant improvement over manual methods. The obvious question is: Can FDO improve upon existing ZTP models? The answer is "Yes."
 
-![FDO and ZTP](https://brunowollmann.com/wp-content/uploads/2021/10/xfd6-intel-fdo-4.png "FDO and ZTP")
+![FDO and ZTP](images/xfd6-intel-fdo-4.png "FDO and ZTP")
 
 One of the most significant advantages FDO brings to ZTP is the late binding of device configuration and customization. In the traditional ZTP model, the manufacturer provides an SKU for each customer and multiple SKUs for a single customer in many situations. This forces the manufacturer in a build-to-order model where there can be no stock in the supply chain. Using FDO, manufacturers can build their devices and have them in the supply chain closer to their customers (i.e., at distributers and VARs) because configuration and customization occur when the device is provisioned.
 
