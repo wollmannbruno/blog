@@ -70,7 +70,7 @@ I've significantly reduced my costs as Hugo, GitHub, and CloudFlare Pages with c
 
 According to my unscientific methods, performance has increased for both the home page as well as individual posts.[^perf]
 
-![Home page performance](images/home.jpg)![Individual post performance](images/post.jpg)
+![Home page performance](home.jpg)![Individual post performance](post.jpg)
 
 [^perf]: These are Lighthouse scores. I realize there are more factors than static pages contributing to this performance improvement.
 
