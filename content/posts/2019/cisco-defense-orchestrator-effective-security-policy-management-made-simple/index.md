@@ -8,6 +8,8 @@ summary: Maintaining consistent security policy across a fleet of identical devi
   very difficult for any operations team. Throw in a mix of device types...
 date: 2019-08-11T16:31:26-06:00
 thumbnail: images/cisco-defense-orchestrator-effective-security-policy-management-made-simple.jpg
+images:
+  - images/cisco-defense-orchestrator-effective-security-policy-management-made-simple.jpg
 categories:
   - Guest Blogs
 tags:

@@ -8,6 +8,8 @@ summary: Welcome to part 2 of this 3-part series about my CCDE journey.
   This post reveals the study materials I used, my study habits and the timeline.
 date: 2019-12-31T18:06:02-06:00
 thumbnail: /images/my-ccde-journey-part-2.jpg
+images:
+  - /images/my-ccde-journey-part-2.jpg
 categories:
   - Certification
   - Design

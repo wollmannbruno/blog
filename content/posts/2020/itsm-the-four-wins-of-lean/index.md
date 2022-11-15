@@ -8,6 +8,8 @@ summary: The Lean methodology is a philosophy and mindset focused on driving max
   value to the customer while minimizing waste. These goals are accomplished...
 date: 2020-01-13T19:43:44-06:00
 thumbnail: /images/itsm-the-four-wins-of-lean.png
+images:
+  - /images/itsm-the-four-wins-of-lean.png
 categories:
   - Guest Blogs
 tags:

@@ -5,6 +5,8 @@ description: This page contains links to content I have produced or events I hav
   participated in that are not hosted on this website.
 date: 
 thumbnail: /images/in-the-wild.jpg
+images:
+  - /images/in-the-wild.jpg
 menu:
   - main
   - footer

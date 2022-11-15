@@ -8,6 +8,8 @@ summary: Network design fundamentals discussed in this post include the delivera
   the process, and some design considerations.
 date: 2019-09-05T13:09:53-06:00
 thumbnail: /images/back-to-basics-design-fundamentals.png
+images:
+  - /images/back-to-basics-design-fundamentals.png
 categories:
   - Guest Blogs
 tags:

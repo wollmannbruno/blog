@@ -6,6 +6,8 @@ lead: The hand-off
 summary: A few key ingredients are needed for effective network operations.
 date: 2019-10-07T13:11:03-06:00
 thumbnail: /images/back-to-basics-network-operations.png
+images:
+  - /images/back-to-basics-network-operations.png
 categories:
   - Guest Blogs
 tags:

@@ -8,6 +8,8 @@ summary: January 14 2018 marked my 10-year anniversary as a Cisco Certified Inte
   Expert and I'm using this milestone to recount my CCIE journey in my first...
 date: 2018-03-13T14:36:51-06:00
 thumbnail: images/my-ccie-journey.jpg
+images:
+  - images/my-ccie-journey.jpg
 categories:
   - CCIE
   - Certification

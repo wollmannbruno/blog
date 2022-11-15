@@ -6,6 +6,8 @@ lead: The BIGGEST NFD ever
 summary: I am once again fortunate enough to be invited to a Tech Field Day event...
 date: 2019-09-24T16:53:08-06:00
 thumbnail: /images/preparing-for-the-big-one-networking-field-day-21.png
+images:
+  - /images/preparing-for-the-big-one-networking-field-day-21.png
 categories:
   - Events
 tags:

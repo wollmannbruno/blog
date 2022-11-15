@@ -4,6 +4,8 @@ title: Contact
 description: The contact page for brunowollmann.com
 date: 
 thumbnail: /images/contact.jpg
+images:
+ - /images/contact.jpg
 menu:
   - main
   - footer

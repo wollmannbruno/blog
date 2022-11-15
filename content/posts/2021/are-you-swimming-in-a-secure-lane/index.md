@@ -8,6 +8,8 @@ summary: When swimming upstream against the rushing current of security alerts
   , accessing APIs may be the only way to avoid being eaten alive.
 date: 2021-11-27T10:19:33-06:00
 thumbnail: /images/are-you-swimming-in-a-secure-lane.png
+images:
+  - /images/are-you-swimming-in-a-secure-lane.png
 categories:
   - Events
 tags:

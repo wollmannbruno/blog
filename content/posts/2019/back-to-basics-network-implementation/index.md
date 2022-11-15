@@ -8,6 +8,8 @@ summary: Now that the design phase of ACME Corporation’s new data centre netwo
   project has been completed, it is time for the implementation phase.
 date: 2019-09-30T13:10:32-06:00
 thumbnail: /images/back-to-basics-network-implementation.png
+images:
+  - /images/back-to-basics-network-implementation.png
 categories:
   - Guest Blogs
 tags:

@@ -8,6 +8,8 @@ summary: I've been on numerous data centre design projects over the last several
     Although there are many common componentsbetween these projects, services...
 date: 2018-09-24T15:30:39-06:00
 thumbnail: images/services-placement-in-data-centre-networks.png
+images:
+  - images/services-placement-in-data-centre-networks.png
 categories:
   - Design
 tags:

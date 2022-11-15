@@ -4,6 +4,8 @@ title: About
 description: The About page for brunowollmann.com 
 date: 
 thumbnail: /images/about.jpg
+images:
+  - /images/about.jpg
 menu:
   - main
   - footer

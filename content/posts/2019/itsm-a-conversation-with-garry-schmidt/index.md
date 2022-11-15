@@ -8,6 +8,8 @@ summary: Garry Schmidt first got involved in IT service management (ITSM) almost
   20 years ago. Since becoming the manager of the IT Operations Center at SaskPower...
 date: 2019-12-02T19:43:12-06:00
 thumbnail: /images/itsm-a-conversation-with-garry-schmidt.png
+images:
+  - /images/itsm-a-conversation-with-garry-schmidt.png
 categories:
   - Guest Blogs
 tags:

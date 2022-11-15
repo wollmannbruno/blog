@@ -8,6 +8,8 @@ summary: This is the sixth and final post in the Back to Basics series.
   This post discusses why a networker’s work is never done.
 date: 2019-10-29T13:11:48-06:00
 thumbnail: /images/back-to-basics-the-network-lifecycle.png
+images:
+  - /images/back-to-basics-the-network-lifecycle.png
 categories:
   - Guest Blogs
 tags:

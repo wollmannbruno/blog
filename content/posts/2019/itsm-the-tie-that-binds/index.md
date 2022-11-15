@@ -8,6 +8,8 @@ summary: The relationship between an IT department and the business it supports 
   one of provider and customer. A real relationship thrives when all participants are…
 date: 2019-11-15T16:38:09-06:00
 thumbnail: /images/itsm-the-tie-that-binds.png
+images:
+  - /images/itsm-the-tie-that-binds.png
 categories:
   - Guest Blogs
 tags:

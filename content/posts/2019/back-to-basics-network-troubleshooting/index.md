@@ -8,6 +8,8 @@ summary: Accusing someone’s system of being the root cause of a problem can ha
   same effect as calling their baby ugly.
 date: 2019-10-15T13:11:26-06:00
 thumbnail: /images/back-to-basics-network-troubleshooting.png
+images:
+  - /images/back-to-basics-network-troubleshooting.png
 categories:
   - Guest Blogs
 tags:

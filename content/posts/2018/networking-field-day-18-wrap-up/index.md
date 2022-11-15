@@ -8,6 +8,8 @@ summary: I had the honour of being selected as a delegate for Networking Field D
   \#NFD18 on Twitter. This was my first Tech Field Day event...
 date: 2018-07-21T17:29:03-06:00
 thumbnail: images/networking-field-day-18-wrap-up.jpg
+images:
+  - images/networking-field-day-18-wrap-up.jpg
 categories:
   - Events
 tags:

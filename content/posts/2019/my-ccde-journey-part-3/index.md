@@ -6,6 +6,8 @@ lead: The big day
 summary: We don't rise to the level of our expectations; we fall to the level of our training.
 date: 2020-01-29T17:01:30-06:00
 thumbnail: images/my-ccde-journey-part-3.jpg
+images:
+  - images/my-ccde-journey-part-3.jpg
 categories:
   - Certification
   - Design

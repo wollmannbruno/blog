@@ -8,6 +8,8 @@ summary: On February 13, 2019, I passed the Cisco Certified Design Expert exam t
   become CCDE \#20190002. This series of blog posts talk about the CCDE program and...
 date: 2019-05-16T16:59:41-06:00
 thumbnail: images/my-ccde-journey-part-1.jpg
+images:
+  - images/my-ccde-journey-part-1.jpg
 categories:
   - Certification
   - Design

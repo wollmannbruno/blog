@@ -8,6 +8,8 @@ summary: Mission-critical IT systems that are “rusting out and at risk of fail
   present a bevy of risks and problems.
 date: 2020-02-10T18:23:44-06:00
 thumbnail: /images/twelve-steps-to-recover-rusted-out-information-technology-departments.png
+images:
+  - /images/twelve-steps-to-recover-rusted-out-information-technology-departments.png
 categories:
   - Opinion
 tags:
