@@ -7,9 +7,9 @@ lead: Solving the IoT device onboarding problem
 summary: Onboarding of IoT devices is a significant challenge in the industry. It
   is expensive because it can take anywhere from twenty minutes to several hours...
 date: 2021-10-31T17:09:37-06:00
-thumbnail: /images/security-field-day-6-fido-device-onboard-fdo.png
+thumbnail: /images/security-field-day-6-fido-device-onboard-fdo.jpg
 images:
-  - /images/security-field-day-6-fido-device-onboard-fdo.png
+  - /images/security-field-day-6-fido-device-onboard-fdo.jpg
 categories:
   - Events
 tags:

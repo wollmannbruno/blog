@@ -7,9 +7,9 @@ lead: It's not random
 summary: I've been on numerous data centre design projects over the last several years.
     Although there are many common componentsbetween these projects, services...
 date: 2018-09-24T15:30:39-06:00
-thumbnail: images/services-placement-in-data-centre-networks.png
+thumbnail: images/services-placement-in-data-centre-networks.jpg
 images:
-  - images/services-placement-in-data-centre-networks.png
+  - images/services-placement-in-data-centre-networks.jpg
 categories:
   - Design
 tags:

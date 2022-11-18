@@ -7,9 +7,9 @@ lead: Rinse and repeat
 summary: This is the sixth and final post in the Back to Basics series.
   This post discusses why a networker’s work is never done.
 date: 2019-10-29T13:11:48-06:00
-thumbnail: /images/back-to-basics-the-network-lifecycle.png
+thumbnail: /images/back-to-basics-the-network-lifecycle.jpg
 images:
-  - /images/back-to-basics-the-network-lifecycle.png
+  - /images/back-to-basics-the-network-lifecycle.jpg
 categories:
   - Guest Blogs
 tags:

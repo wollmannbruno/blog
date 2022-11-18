@@ -7,9 +7,9 @@ lead: This is the way. One of them at least.
 summary: Use a set of network automation tools to accelerate data collection and
   manipulation for the purposes of operating and troubleshooting both...
 date: 2020-05-03T16:40:31-06:00
-thumbnail: /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.png
+thumbnail: /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.jpg
 images:
-  - /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.png
+  - /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.jpg
 categories:
   - Automation
 tags:

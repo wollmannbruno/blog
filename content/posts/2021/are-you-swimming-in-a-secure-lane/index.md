@@ -7,9 +7,9 @@ lead: Don't get eaten alive by security alerts
 summary: When swimming upstream against the rushing current of security alerts
   , accessing APIs may be the only way to avoid being eaten alive.
 date: 2021-11-27T10:19:33-06:00
-thumbnail: /images/are-you-swimming-in-a-secure-lane.png
+thumbnail: /images/are-you-swimming-in-a-secure-lane.jpg
 images:
-  - /images/are-you-swimming-in-a-secure-lane.png
+  - /images/are-you-swimming-in-a-secure-lane.jpg
 categories:
   - Events
 tags:

@@ -7,9 +7,9 @@ lead: Mission parameters
 summary: Your mission, should you choose to accept it, is to be the lead network
   architect for a data centre migration project for ACME Corporation.
 date: 2019-08-21T14:32:00-06:00
-thumbnail: /images/back-to-basics-gathering-requirements.png
+thumbnail: /images/back-to-basics-gathering-requirements.jpg
 images:
-  - /images/back-to-basics-gathering-requirements.png
+  - /images/back-to-basics-gathering-requirements.jpg
 categories:
   - Guest Blogs
 tags:

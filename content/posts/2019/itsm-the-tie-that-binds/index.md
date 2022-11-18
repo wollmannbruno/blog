@@ -7,9 +7,9 @@ lead: Relationship counselling
 summary: The relationship between an IT department and the business it supports is
   one of provider and customer. A real relationship thrives when all participants are…
 date: 2019-11-15T16:38:09-06:00
-thumbnail: /images/itsm-the-tie-that-binds.png
+thumbnail: /images/itsm-the-tie-that-binds.jpg
 images:
-  - /images/itsm-the-tie-that-binds.png
+  - /images/itsm-the-tie-that-binds.jpg
 categories:
   - Guest Blogs
 tags:

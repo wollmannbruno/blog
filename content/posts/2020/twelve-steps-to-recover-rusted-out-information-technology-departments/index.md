@@ -7,9 +7,9 @@ lead: Canada, we have a problem
 summary: Mission-critical IT systems that are “rusting out and at risk of failure”
   present a bevy of risks and problems.
 date: 2020-02-10T18:23:44-06:00
-thumbnail: /images/twelve-steps-to-recover-rusted-out-information-technology-departments.png
+thumbnail: /images/twelve-steps-to-recover-rusted-out-information-technology-departments.jpg
 images:
-  - /images/twelve-steps-to-recover-rusted-out-information-technology-departments.png
+  - /images/twelve-steps-to-recover-rusted-out-information-technology-departments.jpg
 categories:
   - Opinion
 tags:

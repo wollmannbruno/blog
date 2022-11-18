@@ -5,9 +5,9 @@ description: For the second year in a row, Cisco is hosting an IT Blog Awards, a
 lead: Please vote for my blog
 summary: For the second year in a row, Cisco is hosting an IT Blog Awards, and my blog is a finalist...
 date: 2019-11-24T16:51:26-06:00
-thumbnail: /images/2019-it-blog-awards-hosted-by-cisco.png
+thumbnail: /images/2019-it-blog-awards-hosted-by-cisco.jpg
 images:
-  - /images/2019-it-blog-awards-hosted-by-cisco.png
+  - /images/2019-it-blog-awards-hosted-by-cisco.jpg
 categories:
   - General
 tags:

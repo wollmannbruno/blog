@@ -7,9 +7,9 @@ lead: Simple and flexible
 summary: Pica8 presented at Networking Field Day 28 to display why their system
   could be viable for keeping corporate initiatives and supporting IT projects on track.
 date: 2022-06-04T10:20:25-06:00
-thumbnail: /images/the-what-and-how-of-pica8.png
+thumbnail: /images/the-what-and-how-of-pica8.jpg
 images:
-  - /images/the-what-and-how-of-pica8.png
+  - /images/the-what-and-how-of-pica8.jpg
 categories:
   - Events
 tags:
