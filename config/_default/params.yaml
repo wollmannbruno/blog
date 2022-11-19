@@ -11,6 +11,8 @@ post_meta:
   - categories
 mainSections:
   - posts
+customCSS:
+  - css/custom.css
 
 logo:
   image: /Logo.jpg
