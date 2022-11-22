@@ -14,7 +14,7 @@ tags:
   - Awards
 ---
 ---
-For the second year in a row, Cisco is hosting an [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html/) to show their appreciation for the impact independent tech bloggers have on the community. It is Cisco's way of recognizing this great community for the passion, creativity and expertise they share throughout the year. There are 6 categories of blogs being recognized:
+For the second year in a row, Cisco is hosting an [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html/) to show their appreciation for the impact independent tech bloggers have on the community. It is Cisco's way of recognizing this great community for the passion, creativity, and expertise they share throughout the year. There are six categories of blogs being recognized:
 
 - Best Analysis
 - Best Certification Study Journey
@@ -23,13 +23,13 @@ For the second year in a row, Cisco is hosting an [IT Blog Awards](https://www.c
 - Most Educational
 - Most Inspirational
 
-I'm proud to announce that [the post regarding my CCDE journey](https://brunowollmann.com/2019/05/my-ccde-journey-part-1/) is a finalist for Best Certification Study Journey.
+I'm proud to announce that [the post regarding my CCDE journey](/2019/05/my-ccde-journey-part-1/) is a finalist for Best Certification Study Journey.
 
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="https://brunowollmann.com/wp-content/uploads/2019/11/ITBlogAwards_2019_Badge-Finalist-BestCertStudy-300x300.png" alt="" class="wp-image-844"/></figure></div>
+![2019 IT Blog Awards finalist badge](ITBlogAwards_2019_Badge-Finalist-BestCertStudy-300x300.png "Just in case you missed the featured image")
 
 If you found this post to be helpful to you, or you generally like it, please consider [voting](https://www.ciscofeedback.vovici.com/se/705E3ECD18791A68/) for me. Here is a screenshot of the voting page. Voting closes on December 13.
 
-[![Screenshot of the voting page](images/2019-IT-Blog-Awards-Voting-Page.png)](https://www.ciscofeedback.vovici.com/se/705E3ECD18791A68/)
+[![Screenshot of the voting page](2019-IT-Blog-Awards-Voting-Page.png)](https://www.ciscofeedback.vovici.com/se/705E3ECD18791A68/ "2019 IT Blog Awards voting page")
 
 Thank you for your time and consideration.
 
