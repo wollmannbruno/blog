@@ -19,8 +19,8 @@ tags:
 ---
 You have found the third and final installment in the series that documents my CCDE journey. This post is all about exam day.
 
-[Part 1](/2019/05/my-ccde-journey-part-1/) provides information about the program.<br>
-[Part 2](/2019/12/my-ccde-journey-part-2/) reveals the study materials I used, my study habits, and the timeline.
+[Part 1]({{< relref "/my-ccde-journey-part-1" >}}) provides information about the program.<br>
+[Part 2]({{< relref "/my-ccde-journey-part-2" >}}) reveals the study materials I used, my study habits, and the timeline.
 
 ## The Lead-up
 
