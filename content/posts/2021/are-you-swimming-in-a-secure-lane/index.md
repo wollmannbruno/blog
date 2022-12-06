@@ -31,11 +31,11 @@ The traditional response to combat this growing problem has been to hire more Se
 
 To address the complexity caused by tool and data explosion, security teams started creating integrations between tools. This integration evolved into rudimentary automation and then to the present market of SOAR tools. The current crop of tools has limited and fixed use cases requiring code-heavy playbook development to extract additional functionality. They have hit a wall in what they can accomplish.
 
-![The automation wall hit by most SOAR vendors compared to Swimlane's SOAR](images/xfd6-swimlane-1.png "Automation Wall")
+![The automation wall hit by most SOAR vendors compared to Swimlane's SOAR](xfd6-swimlane-1.png "Automation Wall")
 
 Swimlane's approach was to invest heavily in automation from the outset. The result is a system that can easily adapt to the ever-changing needs of your environment. The “easily” part comes from the low-code automation studio — [more about that later](#3-beyond-traditional-security). The “ever-changing” part requires simple integration to new systems and the ability to adjust to any use case.
 
-![Pyramids showing showing Swimlane has invested more in automation than other SOARs](images/xfd6-swimlane-2.png "Investment Pyramids")
+![Pyramids showing Swimlane has invested more in automation than other SOARs](xfd6-swimlane-2.png "Investment Pyramids")
 
 Swimlane has a bench of developers constantly creating integrations to commercial products for free. This bench is one of the value adds to this system. In addition, if you have a set of reliable scripts you cannot do without, you can import them into Swimlane.
 
@@ -61,11 +61,11 @@ This example is such a specific use case that Swimlane would not build it. Inste
 
 Builder Mode creates the correlation between fields from the HR system to those in Swimlane.
 
-![Template builder in Swimlane](images/xfd6-swimlane-3.png "Builder Mode")
+![Template builder in Swimlane](xfd6-swimlane-3.png "Builder Mode")
 
 The Workflow screen is where to program conditions and their corresponding actions. Adding/removing conditions, adding/removing actions, and sequencing the workflow through drag-and-drop are all very intuitive. All customization is accomplished through low-code and performed by anyone with the proper credentials.
 
-![Workflow builder in Swimlane](images/xfd6-swimlane-4.png "Workflow Creation")
+![Workflow builder in Swimlane](xfd6-swimlane-4.png "Workflow Creation")
 
 The opportunity to solve cross-departmental security use cases through low-code automation is tremendous. Additional examples are:
 
