@@ -26,17 +26,17 @@ Because I'm self-employed, I'm open to discovering how I might help your busines
 - Full-time projects
   - Where constant communication with a larger team is required
 - Permanent employment
-  - I really like being self-employed
+  - I like being self-employed
   - This option is unlikely, but I would entertain the conversation
 
 ## Contact Methods
 
 I'm usually bound by some form of an electronic leash, so I'm pretty easy to reach.
 
-[<img src="images/twitter.png" alt="Twitter icon" width="35" title="Twitter"/>](https://twitter.com/wollmannbruno/) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno/) and I have a Twitter app on all my devices.
+[![Twitter](twitter.png)](https://twitter.com/wollmannbruno/) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno/), and I have a Twitter app on all my devices.
 
-[<img src="images/linkedin.png" alt="LinkedIn icon" width="35" title="LinkedIn"/>](https://linkedin.com/in/wollmannbruno/) I'm also available on [LinkedIn](https://linkedin.com/in/wollmannbruno/).
+[![LinkedIn](linkedin.png)](https://linkedin.com/in/wollmannbruno/) I'm also available on [LinkedIn](https://linkedin.com/in/wollmannbruno/).
 
-[<img src="images/email.png" alt="email icon" width="35" title="Masked email"/>](mailto:agile.plan4376@fastmail.com) For longer forms of communication, you can reach me at this [masked email](mailto:agile.plan4376@fastmail.com).
+[![Masked email](email.png)](mailto:agile.plan4376@fastmail.com) You can reach me at this [masked email](mailto:agile.plan4376@fastmail.com) for longer forms of communication.
 
 ---
