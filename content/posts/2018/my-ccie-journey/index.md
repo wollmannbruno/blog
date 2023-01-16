@@ -80,8 +80,6 @@ I had three takeaways:
 
 ## CCIE LAB EXAM ROUND TWO
 
-![Alt text](january-14-2008.jpg)
-
 After returning home, beaten but not defeated, I took another couple of months off from studying. I needed to recharge my batteries and spend time with my family. It was summer in Saskatchewan, and summer is not to be missed here.
 
 ### Slow Sparring for Exam Preparation
@@ -101,6 +99,8 @@ The second prong was trying multiple solutions for most tasks in each lab. If th
 To summarize, there was a difference in my studying this time around. I studied slower, covered less content per study session than I usually would, worked the practice labs multiple times, and tried numerous solutions for most tasks. All these things combined made me more creative, knowledgeable, faster, and confident. I also developed a plan for taking the exam.
 
 ### The Rematch - CCIE 2nd Attempt
+
+![Alt text](january-14-2008.jpg)
 
 While studying, I found that taking a day or two off between practice labs kept my brain fresh, while working labs consecutively got boring and caused my performance to suffer. With this in mind, I stopped studying four days before my exam and arrived in San Jose two days early rather than the day before, like last time.
 
