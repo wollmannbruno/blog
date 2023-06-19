@@ -42,6 +42,29 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "lead",
+          "name": "lead",
+          "type": "string"
+        },
+        {
+          "title": "summary",
+          "name": "summary",
+          "type": "datetime"
+        },
+        {
+          "title": "thumbnail",
+          "name": "thumbnail",
+          "type": "string"
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "choice",
+          "choices": [
+            "https://via.placeholder.com/600x300/0288d1/000000?text=network-object-thy-name-is-contentious"
+          ]
         }
       ]
     }
