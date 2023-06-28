@@ -30,6 +30,7 @@ This page contains links to content I have produced or events I have participate
   - [Tech Field Day Exclusive with Cisco 2022](https://techfieldday.com/event/tfdxcisco22/)
   - [Tech Field Day 25](https://techfieldday.com/event/tfd25/)
   - [Networking Field Day 28](https://techfieldday.com/event/nfd28/)
+  - [Security Field Day 9](https://techfieldday.com/event/xfd9/)
 
 ## Podcasts
 
@@ -39,6 +40,7 @@ This page contains links to content I have produced or events I have participate
   - [Traditional Network Monitoring Tools Can’t Keep Up With Modern Environments](https://gestaltit.com/podcast/spotlight/tom/traditional-network-monitoring-tools-cant-keep-up-with-modern-environments/)
   - [Data Protection Software Doesn’t Solve Ransomware Issues](https://gestaltit.com/podcast/tom/data-protection-software-doesnt-solve-ransomware-issues/)
   - [Full Stack Engineering is a Joke](https://gestaltit.com/podcast/tom/full-stack-engineering-is-a-joke/)
+  - [Silos Are Sabotaging Your Security Strategy](https://gestaltit.com/podcast/tom/silos-are-sabotaging-your-security-strategy/)
 - Network Collective
   - GOING INDEPENDENT
   - Season 3, Episode 2: A LOOK BACK, SOME PREDICTIONS, AND LEARNING AS ENGINEERS
