@@ -38,7 +38,7 @@ Standards for hostnames have been set for a long time in RFCs [608](https://www.
 
 ### Not Just Hostnames
 
-The need for names in networking does not end with hostnames. Objects such as ACLs, VRFs, VLANs, route maps, prefix lists, class maps, etc., all require a name. The convention I use for these is only slightly different than that of hostnames:
+The need for names in networking does not end with hostnames. Objects such as ACLs, VRFs, VLANs, route maps, prefix lists, and class maps all require a name. The convention I use for these is only slightly different than that of hostnames:
 
 - Characters drawn from the alphabet (A-Z), digits (0-9), and the underscore (_)
   - No blank or space characters
@@ -55,7 +55,7 @@ I was shooting for simplicity[^lazy] with the naming convention for objects. My 
 - Do not deviate too much from the hostname standard.
 - Underscores (_) are used as delimiters in object names to avoid confusion with commands.
   - There are no commands that use underscores but there are commands that use the minus sign (-).[^cisco]
-  - Examples of commands with a minus sign are access-lst, class-map, prefix-list, route-map, etc.
+  - Examples of commands with a minus sign are access-lst, class-map, prefix-list, and route-map.
 - Most objects are case-sensitive so UPPERCASE is used exclusively to avoid ambiguity and for config readability.
   - UPPERCASE stands out against a wall of lowercase text.
   - The underscore fits nicely into UPPERCASE as it is also accessed using the **shift** key.
@@ -103,7 +103,7 @@ Because I treat the access layer as the default function for network gear, I nev
 
 [^logical]: I don't know if Spock would consider this approach to be logical or not.
 
-Redundancy and high availability can also be considered a function. For devices that can work in pairs, such as firewalls, load balancers, and MLAG switches, ending the hostnames with `-1` and `-2` is a common practice. For clustering technologies that support more than two devices, or independent devices that take on more load when other like-systems are down, the numeric suffix on the hostname increases as needed. Clustered firewalls and multiple spine switches in a spine/leaf DC fabric are examples where redundancy can grow beyond two devices. Letters can also be used to designate redundant members of a group, but require more mental math, so I stick with numbers.
+Redundancy and high availability can also be considered functions. For devices that can work in pairs, such as firewalls, load balancers, and MLAG switches, ending the hostnames with `-1` and `-2` is a common practice. For clustering technologies that support more than two devices, or independent devices that take on more load when other like-systems are down, the numeric suffix on the hostname increases as needed. Clustered firewalls and multiple spine switches in a spine/leaf DC fabric are examples where redundancy can grow beyond two devices. Letters can also be used to designate redundant members of a group, but require more mental math, so I stick with numbers.
 
 #### Object Oriented
 
