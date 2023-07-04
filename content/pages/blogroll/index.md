@@ -50,15 +50,15 @@ menu:
 [NETWORK FUN-TIMES](https://www.networkfuntimes.com)<br>
 [Networking with FISH](https://www.networkingwithfish.com/)<br>
 [networkop on networkop](https://networkop.co.uk/)<br>
-[Nick Russo blog](http://njrusmc.net/blog/blog.html)<br>
+[Nick Russo](http://njrusmc.net/blog/blog.html)<br>
 [No Blinky Blinky](https://blog.noblinkyblinky.com)<br>
 [NotASketchyLink](https://notasketchylink.com)<br>
-[NWMichl Blog](https://nwmichl.net)<br>
+[NWMichl](https://nwmichl.net)<br>
 [Pack IT Forwarding](https://packitforwarding.com/)<br>
 [Packet-Foo | Network Packet Capture and Analysis](https://blog.packet-foo.com)<br>
 [Packet-forwarding.net](https://www.packet-forwarding.net/)<br>
 [PacketLife.net](https://packetlife.net/blog/)<br>
-[Potaroo blog](https://www.potaroo.net)<br>
+[Potaroo](https://www.potaroo.net)<br>
 [RecurseIT](https://recurseit.com)<br>
 [RedNectar's Blog](https://rednectar.net)<br>
 [routejockey](https://routerjockey.com)<br>
@@ -83,7 +83,7 @@ menu:
 
 ## Organizations
 
-[Ansible Blog](https://www.ansible.com/blog)<br>
+[Ansible](https://www.ansible.com/blog)<br>
 [CircleID](https://www.circleid.com/blogs/)<br>
 [Dark Reading](https://www.darkreading.com)<br>
 [NetCraftsmen](https://netcraftsmen.com)<br>
