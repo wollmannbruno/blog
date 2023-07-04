@@ -33,7 +33,7 @@ Because I'm self-employed, I'm open to discovering how I might help your busines
 
 I'm usually bound by some form of an electronic leash, so I'm pretty easy to reach.
 
-[![Twitter](twitter.png)](https://twitter.com/wollmannbruno/) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno/), and I have a Twitter app on all my devices.
+[![Twitter](twitter.png)](https://twitter.com/wollmannbruno/) My Twitter handle is [@wollmannbruno](https://twitter.com/wollmannbruno/), and ~~I have a Twitter app on all my devices~~ I don't check it very often.
 
 [![LinkedIn](linkedin.png)](https://linkedin.com/in/wollmannbruno/) I'm also available on [LinkedIn](https://linkedin.com/in/wollmannbruno/).
 
