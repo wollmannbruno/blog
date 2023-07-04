@@ -41,6 +41,7 @@ This page contains links to content I have produced or events I have participate
   - [Data Protection Software Doesn’t Solve Ransomware Issues](https://gestaltit.com/podcast/tom/data-protection-software-doesnt-solve-ransomware-issues/)
   - [Full Stack Engineering is a Joke](https://gestaltit.com/podcast/tom/full-stack-engineering-is-a-joke/)
   - [Silos Are Sabotaging Your Security Strategy](https://gestaltit.com/podcast/tom/silos-are-sabotaging-your-security-strategy/)
+  - [Security Field Day 9 Delegate Roundtable Discussion](https://techfieldday.com/appearance/security-field-day-9-delegate-roundtable-discussion/)
 - Network Collective
   - GOING INDEPENDENT
   - Season 3, Episode 2: A LOOK BACK, SOME PREDICTIONS, AND LEARNING AS ENGINEERS
