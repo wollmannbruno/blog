@@ -62,7 +62,7 @@ menu:
 [RecurseIT](https://recurseit.com)<br>
 [RedNectar's Blog](https://rednectar.net)<br>
 [routejockey](https://routerjockey.com)<br>
-[rule 11 reader](https://rule11.tech)<br>
+[rule 11](https://rule11.tech)<br>
 [Ruud van Asseldonk](https://ruudvanasseldonk.com/writing)<br>
 [Schneier on Security](https://www.schneier.com)<br>
 [Stephen Foskett, Pack Rat](https://blog.fosketts.net/)<br>
