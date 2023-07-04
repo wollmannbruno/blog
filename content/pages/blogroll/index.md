@@ -47,7 +47,6 @@ menu:
 [Mom, Network Engineer, Juniper Ambassador](https://momcanfixanything.com)<br>
 [MovingPackets.net](https://movingpackets.net)<br>
 [neckercube.com: Jedadiah Casey](https://neckercube.com/)<br>
-[NetCraftsmen](https://netcraftsmen.com)<br>
 [NETWORK FUN-TIMES](https://www.networkfuntimes.com)<br>
 [Networking with FISH](https://www.networkingwithfish.com/)<br>
 [networkop on networkop](https://networkop.co.uk/)<br>
@@ -87,6 +86,7 @@ menu:
 [Ansible Blog](https://www.ansible.com/blog)<br>
 [CircleID](https://www.circleid.com/blogs/)<br>
 [Dark Reading](https://www.darkreading.com)<br>
+[NetCraftsmen](https://netcraftsmen.com)<br>
 [Packet Pushers](https://packetpushers.net/blogs/)<br>
 [Posts on nornir.tech](https://nornir.tech/posts/)<br>
 [Sniff free or die](https://blog.wireshark.org)<br>
