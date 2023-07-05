@@ -86,6 +86,7 @@ menu:
 [Ansible](https://www.ansible.com/blog)<br>
 [CircleID](https://www.circleid.com/blogs/)<br>
 [Dark Reading](https://www.darkreading.com)<br>
+[NetBox Labs](https://netboxlabs.com/blog/)<br>
 [NetCraftsmen](https://netcraftsmen.com)<br>
 [Packet Pushers](https://packetpushers.net/blogs/)<br>
 [Posts on nornir.tech](https://nornir.tech/posts/)<br>
