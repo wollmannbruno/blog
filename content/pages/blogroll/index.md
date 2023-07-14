@@ -31,6 +31,7 @@ menu:
 [Daniels Networking Blog](https://lostintransit.se)<br>
 [David Sudjiman](https://davidsudjiman.wordpress.com)<br>
 [Demitasse](https://demitasse.co.nz)<br>
+[densemode](https://densemode.com/)<br>
 [ESHARP.NET](https://www.esharp.net)<br>
 [Ethan Banks](https://ethancbanks.com)<br>
 [Etherealmind](https://etherealmind.com)<br>
