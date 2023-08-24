@@ -76,16 +76,5 @@
       "title": "content",
       "path": "[[workspace]]/content"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "CCIE",
-    "certification",
-    "exam",
-    "knowledge",
-    "lab"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "CCIE",
-    "Certification"
   ]
 }
