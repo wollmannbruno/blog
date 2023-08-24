@@ -33,6 +33,7 @@ menu:
 [Demitasse](https://demitasse.co.nz)<br>
 [densemode](https://densemode.com/)<br>
 [ESHARP.NET](https://www.esharp.net)<br>
+[ether-net](https://ether-net.com/)<br>
 [Ethan Banks](https://ethancbanks.com)<br>
 [Etherealmind](https://etherealmind.com)<br>
 [Fryguy's Blog](https://fryguy.net)<br>
@@ -56,6 +57,7 @@ menu:
 [NotASketchyLink](https://notasketchylink.com)<br>
 [NWMichl](https://nwmichl.net)<br>
 [Pack IT Forwarding](https://packitforwarding.com/)<br>
+[Packet Pilot](https://www.packetpilot.com/)<br>
 [Packet-Foo | Network Packet Capture and Analysis](https://blog.packet-foo.com)<br>
 [Packet-forwarding.net](https://www.packet-forwarding.net/)<br>
 [PacketLife.net](https://packetlife.net/blog/)<br>
@@ -69,6 +71,7 @@ menu:
 [Stephen Foskett, Pack Rat](https://blog.fosketts.net/)<br>
 [StubArea51.net](https://stubarea51.net)<br>
 [SubnetZero](https://subnetzero.info)<br>
+[The Answer is 101010](https://www.theansweris101010.network/)<br>
 [The Data Center Overlords](https://datacenteroverlords.com)<br>
 [The Elegant Network](https://elegantnetwork.github.io)<br>
 [The ForwardingPlane](https://forwardingplane.net/)<br>
