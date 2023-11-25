@@ -5,9 +5,9 @@ description:
 lead: It Was Amazing.
 summary: 
 date: 2023-11-18T09:06:08-06:00
-thumbnail: https://placehold.co/600x300/0288d1/000000?text=autocon0
+thumbnail: images/autocon0-happened.jpg
 images:
-  - https://placehold.co/600x300/0288d1/000000?text=autocon0
+  - images/autocon0-happened.jpg
 categories:
   - Events
 tags:
@@ -45,3 +45,5 @@ For two days, the conference featured two keynotes, a few presentations to showc
 ### Truth
 
 ## What Happens Next
+
+![My AutoCon0 Badge](AutoCon0.jpg)
