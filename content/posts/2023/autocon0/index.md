@@ -12,7 +12,7 @@ categories:
   - Events
 tags:
   - Network Automation
-  - Autocon
+  - AutoCon
   - NAF
 ---
 ---
@@ -20,10 +20,28 @@ The [Network Automation Forum](https://networkautomation.forum) recently hosted 
 
 [^0-based]: Gotta love the 0-based indexing.
 
-For two days, the conference featured two keynotes, a few presentations to showcase inspirational success stories, panel discussions centered on specific topics, and perspectives from a few vendors. It ended with a working session titled **"Now What?"**. There had been audience participation for all sessions, but this one focused on the audience; it was open-mic night.
+For two days, the conference featured two keynotes, a few presentations to showcase inspirational success stories, panel discussions centered on specific topics, and perspectives from a few vendors. It ended with a working session titled **"Now What?"**. Audience participation had been present for all sessions, but this one focused on the audience; it was an open-mic night.
 
-Here are a few of my thoughts on the event.
+## What Happened
 
-**end here**
 
----
+
+### Keynotes
+
+### Presentations
+
+### Panel Discussions
+
+## What Needs To Happen
+
+### Common Ground
+
+### Build vs Buy
+
+### Always Be Selling
+
+### TDD
+
+### Truth
+
+## What Happens Next
