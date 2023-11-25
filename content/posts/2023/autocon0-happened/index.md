@@ -46,4 +46,4 @@ For two days, the conference featured two keynotes, a few presentations to showc
 
 ## What Happens Next
 
-![My AutoCon0 Badge](AutoCon0.jpg)
+![My AutoCon0 Badge](autocon0-badge.jpg)
