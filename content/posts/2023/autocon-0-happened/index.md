@@ -101,6 +101,6 @@ All data that goes into a network's configuration must be stored somewhere and b
 
 AutoCon 0 was a great experience. At approximately 300 people, it offered the right mix of intimacy and a broad spectrum of expertise. Everyone I talked to had their ah-ha moment where they knew they could take something back to their day job and apply it. Although this conference was preaching to the choir, there was a sense of rejuvenation and increased vigor for their automation efforts. There was a feeling that now is the time for automation to come out of the shadows.
 
-When asked for suggestions on how to best progress with automation, some responses from presenters and panelists were "Do or do not, there is no try" or "Shut up and automate." Because success is infectious, maybe the Nike method is the best, "Just do it."
+When asked for suggestions on how to best progress with automation, some responses from presenters and panelists were "Do or do not, there is no try" or "Shut up and automate." Because success is infectious, maybe the Nike method is the best, "Just do it!"
 
 ![My AutoCon 0 Badge](autocon-0-badge.jpg)
