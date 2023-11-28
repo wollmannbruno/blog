@@ -54,7 +54,7 @@ Topics included:
 
 Panels consisted of automation experts led by a moderator. Some panels started with brief presentations, but all consisted of moderator-asked questions and questions from the audience.
 
-Topic included:
+Topics included:
 
 - The current state of network automation
 - Challenges to adoption
