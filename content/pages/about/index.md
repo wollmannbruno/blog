@@ -21,10 +21,10 @@ Since graduating from the University of Regina with a Bachelor of Science in Com
 
 In addition to designing, architecting, and implementing network solutions, I love troubleshooting networks and applications. Any day I get to perform packet analysis is a good day - at least, it's a good day for me 😉
 
-[![Cisco Certified Design Expert logo](ccde_design_large.jpg)](https://www.credly.com/badges/a41d79f9-54ee-40be-b1ce-c194a14a5515/ "Cisco Certified Design Expert")
-[![CCIE Routing and Switching logo](ccie_routeswitch_large.jpg)](https://www.credly.com/badges/c8d99fbc-0880-4b48-ba8a-5e067961ec98/ "CCIE Routing and Switching")
-![CCIE 10 Years logo](ccie_10years_large.jpg "CCIE 10 Years")
-[![Logo for The Open Group Architecture Framework certification - TOGAF 9](the-open-group-certified-togaf-9-certified.png)](https://www.credly.com/earner/earned/badge/15acdf77-3141-4ed3-8eaa-909a532c9aab/ "The Open Group Architecture Framework certification - TOGAF 9")
+[![Cisco Certified Design Expert logo](ccde_design_large.jpg)](https://www.credly.com/badges/a41d79f9-54ee-40be-b1ce-c194a14a5515/public_url "Cisco Certified Design Expert")
+[![CCIE Routing and Switching logo](ccie_routeswitch_large.jpg)](https://www.credly.com/badges/c8d99fbc-0880-4b48-ba8a-5e067961ec98/public_url "CCIE Routing and Switching")
+![CCIE 15 Years logo](CCIE_15_UseLogo.jpg "CCIE 15 Years")
+[![Logo for The Open Group Architecture Framework certification - TOGAF 9](the-open-group-certified-togaf-9-certified.png)](https://www.credly.com/badges/15acdf77-3141-4ed3-8eaa-909a532c9aab/public_url "The Open Group Architecture Framework certification - TOGAF 9")
 
 ## SITE INFORMATION
 
