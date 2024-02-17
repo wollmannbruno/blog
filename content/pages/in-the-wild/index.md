@@ -31,6 +31,8 @@ This page contains links to content I have produced or events I have participate
   - [Tech Field Day 25](https://techfieldday.com/event/tfd25/)
   - [Networking Field Day 28](https://techfieldday.com/event/nfd28/)
   - [Security Field Day 9](https://techfieldday.com/event/xfd9/)
+  - [Networking Field Day 33](https://techfieldday.com/event/nfd33/)
+  - [Networking Field Day 34](https://techfieldday.com/event/nfd34/)
 
 ## Podcasts
 
