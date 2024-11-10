@@ -21,8 +21,8 @@ tags:
 ---
 Welcome to part two of this 3-part series about my CCDE journey. This post reveals the study materials I used, my study habits, and the timeline. I have sprinkled in a little bit of advice as well.
 
-[Part 1]({{< relref "/my-ccde-journey-part-1" >}}) provided you with information about the program.<br>
-[Part 3]({{< relref "/my-ccde-journey-part-3" >}}) talks about exam day and my strategies for the exam itself.
+[Part 1]({{< relref "my-ccde-journey-part-1" >}}) provided you with information about the program.<br>
+[Part 3]({{< relref "my-ccde-journey-part-3" >}}) talks about exam day and my strategies for the exam itself.
 
 ## Challenge Accepted
 
@@ -191,7 +191,7 @@ Rather than ingesting information like a dog eats its food, think your way throu
 
 My CCDE journey officially kicked off in the spring of 2017 when I started studying for the written. After passing in November of that year, I immediately started studying for the practical.
 
-I failed my first attempt in September 2018. I did not have all the technical knowledge I needed, as I was only halfway through my reading list. My [intentionally slow]({{< relref "/my-ccie-journey#slow-sparring-for-exam-preparation" >}} "Slow sparring") method of learning, creating handwritten study notes, caused me to run out of time. I knew I was running out of time, but I did not re-schedule as I wanted the experience of attempting the exam. I was not surprised or disappointed that I failed. It was the expected result.
+I failed my first attempt in September 2018. I did not have all the technical knowledge I needed, as I was only halfway through my reading list. My [intentionally slow]({{< relref "my-ccie-journey#slow-sparring-for-exam-preparation" >}} "Slow sparring") method of learning, creating handwritten study notes, caused me to run out of time. I knew I was running out of time, but I did not re-schedule as I wanted the experience of attempting the exam. I was not surprised or disappointed that I failed. It was the expected result.
 
 After taking a month off studying, I got back on the horse and passed my second attempt in February 2019. I managed to work through all the material by this time, so I would have been disappointed had I failed.
 

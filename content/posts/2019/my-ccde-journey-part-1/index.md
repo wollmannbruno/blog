@@ -26,8 +26,8 @@ On February 13, 2019, I passed the [Cisco Certified Design Expert](https://learn
 2. Be of some assistance to those who have already decided to pursue CCDE
 
 Part 1 of this series provides you with information about the program.<br>
-[Part 2]({{< relref "/my-ccde-journey-part-2" >}}) details the study materials I used, my study habits, and my timeline.<br>
-[Part 3]({{< relref "/my-ccde-journey-part-3" >}}) talks about the exam day and my strategies for the exam itself.
+[Part 2]({{< relref "my-ccde-journey-part-2" >}}) details the study materials I used, my study habits, and my timeline.<br>
+[Part 3]({{< relref "my-ccde-journey-part-3" >}}) talks about the exam day and my strategies for the exam itself.
 
 ## Acknowledgments and Gratitude
 
