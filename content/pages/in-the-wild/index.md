@@ -74,4 +74,5 @@ This page contains links to content I have produced or events I have participate
 ## LinkedIn Articles
 
 - [Evolving Network Operations with Nokia’s Event-Driven Automation](https://www.linkedin.com/pulse/evolving-network-operations-nokias-event-driven-bruno-wollmann-oprvc/)
+
 ---
