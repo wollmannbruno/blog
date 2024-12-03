@@ -33,17 +33,19 @@ This page contains links to content I have produced or events I have participate
   - [Security Field Day 9](https://techfieldday.com/event/xfd9/)
   - [Networking Field Day 33](https://techfieldday.com/event/nfd33/)
   - [Networking Field Day 34](https://techfieldday.com/event/nfd34/)
+  - [Networking Field Day Exclusive with Nokia](https://techfieldday.com/event/nfdxnokia24/)
 
 ## Podcasts
 
 - [Cisco Champion Radio](https://soundcloud.com/user-327105904/)
   - [Season 7, Episode 33: Accelerating a Multi-domain Strategy with Intelligent Networking](https://soundcloud.com/user-327105904/s7-e33-accelerating-a-multi-domain-strategy-with-intelligent-networking/)
-- [On-Premise IT](https://gestaltit.com/category/podcast/)
+- [TECH FIELD DAY PODCAST](https://gestaltit.com/category/podcast/)
   - [Traditional Network Monitoring Tools Can’t Keep Up With Modern Environments](https://gestaltit.com/podcast/spotlight/tom/traditional-network-monitoring-tools-cant-keep-up-with-modern-environments/)
   - [Data Protection Software Doesn’t Solve Ransomware Issues](https://gestaltit.com/podcast/tom/data-protection-software-doesnt-solve-ransomware-issues/)
   - [Full Stack Engineering is a Joke](https://gestaltit.com/podcast/tom/full-stack-engineering-is-a-joke/)
   - [Silos Are Sabotaging Your Security Strategy](https://gestaltit.com/podcast/tom/silos-are-sabotaging-your-security-strategy/)
   - [Security Field Day 9 Delegate Roundtable Discussion](https://techfieldday.com/appearance/security-field-day-9-delegate-roundtable-discussion/)
+  - [Network Automation Is More Than Just Tooling](https://gestaltit.com/podcast/tom/network-automation-is-more-than-just-tooling/)
 - Network Collective
   - GOING INDEPENDENT
   - Season 3, Episode 2: A LOOK BACK, SOME PREDICTIONS, AND LEARNING AS ENGINEERS
@@ -69,4 +71,7 @@ This page contains links to content I have produced or events I have participate
   - [VMware SD-WAN and Edge Network Intelligence for Healthcare](https://gestaltit.com/tech-talks/vmware/bwollmann/vmware-sd-wan-and-edge-network-intelligence-for-healthcare/)
   - [3rd Gen Intel Xeon Scalable Platform: What Will You Solve For?](https://gestaltit.com/tech-talks/intel/intel-2021/bwollmann/3rd-gen-intel-xeon-scalable-platform-what-will-you-solve-for/)
 
+## LinkIn Articles
+
+- [Evolving Network Operations with Nokia’s Event-Driven Automation](https://www.linkedin.com/pulse/evolving-network-operations-nokias-event-driven-bruno-wollmann-oprvc/)
 ---
