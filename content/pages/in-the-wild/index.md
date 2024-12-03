@@ -71,7 +71,7 @@ This page contains links to content I have produced or events I have participate
   - [VMware SD-WAN and Edge Network Intelligence for Healthcare](https://gestaltit.com/tech-talks/vmware/bwollmann/vmware-sd-wan-and-edge-network-intelligence-for-healthcare/)
   - [3rd Gen Intel Xeon Scalable Platform: What Will You Solve For?](https://gestaltit.com/tech-talks/intel/intel-2021/bwollmann/3rd-gen-intel-xeon-scalable-platform-what-will-you-solve-for/)
 
-## LinkIn Articles
+## LinkedIn Articles
 
 - [Evolving Network Operations with Nokia’s Event-Driven Automation](https://www.linkedin.com/pulse/evolving-network-operations-nokias-event-driven-bruno-wollmann-oprvc/)
 ---
