@@ -33,7 +33,6 @@ widgets:
   recent_num: 5
   tags_counter: false
   social:
-    twitter: wollmannbruno
     linkedin: wollmannbruno
     github: wollmannbruno
 
