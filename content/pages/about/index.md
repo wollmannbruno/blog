@@ -13,7 +13,7 @@ menu:
 ---
 Welcome to my site. My name is Bruno Wollmann, and I'll be your host in this corner of the Internet.
 
-## PROFESSIONAL INFORMATIO
+## PROFESSIONAL INFORMATION
 
 I’ve been in the Information Technology (IT) industry for over 20 years, with most of my roles revolving around computer networking in some form or another (i.e., design, architecture, implementation, support, and troubleshooting). Other positions I’ve held include sales, training, software development, desktop support, and server administration. I'm self-employed and have been for more than half of my career.
 
