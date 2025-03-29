@@ -34,6 +34,7 @@ This page contains links to content I have produced or events I have participate
   - [Networking Field Day 33](https://techfieldday.com/event/nfd33/)
   - [Networking Field Day 34](https://techfieldday.com/event/nfd34/)
   - [Networking Field Day Exclusive with Nokia](https://techfieldday.com/event/nfdxnokia24/)
+  - [Networking Field Day 37](https://techfieldday.com/event/nfd37/)
 
 ## Podcasts
 
