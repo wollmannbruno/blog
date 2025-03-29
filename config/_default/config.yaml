@@ -2,4 +2,4 @@ baseURL: https://brunowollmann.com
 languageCode: en-us
 title: Bruno Wollmann on Networking
 theme: mainroad
-paginate: 10
+pagination.pagerSize: 10

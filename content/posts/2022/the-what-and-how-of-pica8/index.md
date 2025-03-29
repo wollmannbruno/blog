@@ -25,7 +25,7 @@ Here are a couple of points that resonated with me during NFD28.
 
 ## What can you do?
 
-{{< tweet user="802Tophat" id="1527456550545248265" >}}
+{{< x user="802Tophat" id="1527456550545248265" >}}
 
 Who likes dealing with licensing? My friend [Richard McIntosh](https://802tophat.wordpress.com) does not. Read some of the replies to his tweet, and you will see that most people find licensing schemes to be painful. When you have to run a separate licensing and compliance server in your environment, it is a good indication that the balance between value and complexity is not weighted in the customer's favour. To be fair to Cisco, they are not the only vendor where licensing is a nightmare - which is usually the result of companies chasing recurring revenues through subscription and feature-based licensing.
 
