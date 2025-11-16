@@ -67,3 +67,8 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[permalinks]
+  [permalinks.page]
+    posts = "/:year/:month/:title/"
+    pages = "/:title/"
