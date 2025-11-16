@@ -1,0 +1,5 @@
+baseURL: https://brunowollmann.com/
+languageCode: en
+title: Bruno Wollmann on Networking
+theme: blowfish
+pagination.pagerSize: 10
