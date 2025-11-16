@@ -3,13 +3,10 @@ draft: false
 title: My CCDE Journey - Part 2
 description: Welcome to part 2 of this 3-part series about my CCDE journey. 
   This post reveals the study materials I used, my study habits, and the timeline.
-lead: A sprinkling of advice
-summary: Welcome to part 2 of this 3-part series about my CCDE journey. 
-  This post reveals the study materials I used, my study habits, and the timeline.
+summary: A sprinkling of advice
+# summary: Welcome to part 2 of this 3-part series about my CCDE journey. 
+#   This post reveals the study materials I used, my study habits, and the timeline.
 date: 2019-12-31T18:06:02-06:00
-thumbnail: /images/my-ccde-journey-part-2.jpg
-images:
-  - /images/my-ccde-journey-part-2.jpg
 categories:
   - Certification
   - Design
@@ -19,6 +16,10 @@ tags:
   - exam
 ---
 ---
+{{< lead >}}
+A sprinkling of advice
+{{< /lead >}}
+
 Welcome to part two of this 3-part series about my CCDE journey. This post reveals the study materials I used, my study habits, and the timeline. I have sprinkled in a little bit of advice as well.
 
 [Part 1]({{< relref "my-ccde-journey-part-1" >}}) provided you with information about the program.<br>

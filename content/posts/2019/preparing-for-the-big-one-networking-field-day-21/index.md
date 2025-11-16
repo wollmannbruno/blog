@@ -2,12 +2,9 @@
 draft: false
 title: Preparing for the Big One Networking Field Day 21
 description: I am once again fortunate enough to be invited to a Tech Field Day event.
-lead: The BIGGEST NFD ever
-summary: I am once again fortunate enough to be invited to a Tech Field Day event...
+summary: The BIGGEST NFD ever
+# summary: I am once again fortunate enough to be invited to a Tech Field Day event...
 date: 2019-09-24T16:53:08-06:00
-thumbnail: /images/preparing-for-the-big-one-networking-field-day-21.jpg
-images:
-  - /images/preparing-for-the-big-one-networking-field-day-21.jpg
 categories:
   - Events
 tags:
@@ -17,6 +14,10 @@ tags:
   - TFD
 ---
 ---
+{{< lead >}}
+The BIGGEST NFD ever
+{{< /lead >}}
+
 I am once again fortunate enough to be invited to a Tech Field Day event; THE BIGGEST EVER. Read on as I try to convey my excitement and share some of my preparation.
 
 ## The Event

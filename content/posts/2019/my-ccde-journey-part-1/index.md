@@ -3,13 +3,10 @@ draft: false
 title: My CCDE Journey - Part 1
 description: On February 13, 2019, I passed the Cisco Certified Design Expert exam to
   become CCDE \#20190002. This blog post series discusses the CCDE program and...
-lead: It's about the business
-summary: On February 13, 2019, I passed the Cisco Certified Design Expert exam to
-  become CCDE \#20190002. This blog post series discusses the CCDE program and...
+summary: It's about the business
+# summary: On February 13, 2019, I passed the Cisco Certified Design Expert exam to
+#   become CCDE \#20190002. This blog post series discusses the CCDE program and...
 date: 2019-05-16T16:59:41-06:00
-thumbnail: images/my-ccde-journey-part-1.jpg
-images:
-  - images/my-ccde-journey-part-1.jpg
 categories:
   - Certification
   - Design
@@ -19,6 +16,9 @@ tags:
   - exam
 ---
 ---
+{{< lead >}}
+It's about the business
+{{< /lead >}}
 
 On February 13, 2019, I passed the [Cisco Certified Design Expert](https://learningnetwork.cisco.com/community/certifications/ccde/) exam to become [CCDE #20190002](https://www.credly.com/badges/a41d79f9-54ee-40be-b1ce-c194a14a5515/). This blog post series discusses the CCDE program and documents my certification journey. I have two purposes for these posts:
 

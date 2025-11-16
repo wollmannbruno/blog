@@ -3,13 +3,10 @@ draft: false
 title: AutoCon 0 Happened
 description: AutoCon 0 was a great experience. At approximately 300 people, it offered
   the right mix of intimacy and a broad spectrum of expertise.
-lead: It Was Amazing.
-summary: AutoCon 0 was a great experience. At approximately 300 people, it offered
-  the right mix of intimacy and a broad spectrum of expertise.
+summary: It Was Amazing.
+# summary: AutoCon 0 was a great experience. At approximately 300 people, it offered
+#   the right mix of intimacy and a broad spectrum of expertise.
 date: 2023-11-28T07:06:08-06:00
-thumbnail: images/autocon-0-happened.jpg
-images:
-  - images/autocon-0-happened.jpg
 categories:
   - Events
 tags:
@@ -18,6 +15,10 @@ tags:
   - NAF
 ---
 ---
+{{< lead >}}
+It Was Amazing.
+{{< /lead >}}
+
 The [Network Automation Forum](https://networkautomation.forum) recently hosted the inaugural AutoCon conference, AutoCon 0[^0-based], in Denver, Colorado, to answer **"WHY HAVEN’T WE SEEN FULL ADOPTION OF NETWORK AUTOMATION, YET?"** The question shows optimism for the future of network automation, one of the conference's main themes, and the attitude held by its 300-ish attendees.
 
 [^0-based]: Gotta love the 0-based indexing.

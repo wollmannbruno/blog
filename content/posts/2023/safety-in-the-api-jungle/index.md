@@ -3,13 +3,10 @@ draft: false
 title: Safety in the API Jungle
 description: It's a jungle out there and predators are homing in on the smell of fresh
   attack vectors and security vulnerabilities exposed by APIs.
-lead: APIs are a new attack surface. A hidden attack surface.
-summary: It's a jungle out there and predators are homing in on the smell of fresh
-  attack vectors and security vulnerabilities exposed by APIs.
+summary: APIs are a new attack surface. A hidden attack surface.
+# summary: It's a jungle out there and predators are homing in on the smell of fresh
+#   attack vectors and security vulnerabilities exposed by APIs.
 date: 2023-07-15T07:36:00-06:00
-thumbnail: images/safety-in-the-api-jungle.jpg
-images:
-  - images/safety-in-the-api-jungle.jpg
 categories:
   - Events
 tags:
@@ -19,6 +16,10 @@ tags:
   - XFD
 ---
 ---
+{{< lead >}}
+APIs are a new attack surface. A hidden attack surface.
+{{< /lead >}}
+
 Application Programming Interfaces (API) power the modern world. They can be found in applications that control lighting, garage door openers, and security systems. They are used to check the weather, map travel routes, and book flights. APIs are leveraged to access personal information, transfer money, and control nuclear reactors. Mission-critical operations, digital transformation, and information availability all rely on them - APIs are everywhere.
 
 It's a jungle out there and predators are homing in on the smell of fresh attack vectors and security vulnerabilities exposed by APIs. [Noname Security](https://techfieldday.com/companies/noname-security/) has a solution to this security problem, which they presented at [Security Field Day 9 (XFD9)](https://techfieldday.com/event/xfd9/).

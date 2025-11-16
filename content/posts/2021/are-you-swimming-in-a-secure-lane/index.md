@@ -3,13 +3,10 @@ draft: false
 title: Are You Swimming in a Secure Lane?
 description: When swimming upstream against the rushing current of security alerts
   , accessing APIs may be the only way to avoid being eaten alive.
-lead: Don't get eaten alive by security alerts
-summary: When swimming upstream against the rushing current of security alerts
-  , accessing APIs may be the only way to avoid being eaten alive.
+summary: Don't get eaten alive by security alerts
+# summary: When swimming upstream against the rushing current of security alerts
+#   , accessing APIs may be the only way to avoid being eaten alive.
 date: 2021-11-27T10:19:33-06:00
-thumbnail: /images/are-you-swimming-in-a-secure-lane.jpg
-images:
-  - /images/are-you-swimming-in-a-secure-lane.jpg
 categories:
   - Events
 tags:
@@ -19,6 +16,10 @@ tags:
   - XFD
 ---
 ---
+{{< lead >}}
+Don't get eaten alive by security alerts
+{{< /lead >}}
+
 On October 21, 2021, representatives from Swimlane delivered a presentation at [Security Field Day 6](https://techfieldday.com/event/xfd6/). Cody Cornel and Byron Page [demonstrated](https://techfieldday.com/appearance/swimlane-presents-at-security-field-day-6) how their product is more than your typical Security Orchestration, Automation and Response (SOAR) system.
 
 This post talks about three factors from that presentation that stood out for me.

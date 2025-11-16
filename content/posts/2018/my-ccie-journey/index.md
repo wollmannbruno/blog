@@ -3,13 +3,10 @@ draft: false
 title: My CCIE Journey
 description: January 14, 2018, marked my 10th anniversary as a Cisco Certified Internetwork
   Expert, and I'm using this milestone to recount my CCIE journey in my first...
-lead: Some helpful hints and a pep-talk
-summary: January 14, 2018, marked my 10th anniversary as a Cisco Certified Internetwork
-  Expert, and I'm using this milestone to recount my CCIE journey in my first...
+summary: Some helpful hints and a pep-talk
+# summary: January 14, 2018, marked my 10th anniversary as a Cisco Certified Internetwork
+#   Expert, and I'm using this milestone to recount my CCIE journey in my first...
 date: 2018-03-13T14:36:51-06:00
-thumbnail: images/my-ccie-journey.jpg
-images:
-  - images/my-ccie-journey.jpg
 categories:
   - CCIE
   - Certification
@@ -23,6 +20,9 @@ aliases:
   - /2018/03/ccie-journey/
 ---
 ---
+{{< lead >}}
+Some helpful hints and a pep-talk
+{{< /lead >}}
 
 ## INTRODUCTION
 

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Back to Basics: Network Troubleshooting"
 description: Accusing someone’s system of being the root cause of a problem can have the
   same effect as calling their baby ugly.
@@ -7,9 +7,6 @@ lead: When things go wrong
 summary: Accusing someone’s system of being the root cause of a problem can have the
   same effect as calling their baby ugly.
 date: 2019-10-15T13:11:26-06:00
-thumbnail: /images/back-to-basics-network-troubleshooting.jpg
-images:
-  - /images/back-to-basics-network-troubleshooting.jpg
 categories:
   - Guest Blogs
 tags:

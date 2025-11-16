@@ -3,19 +3,20 @@ draft: false
 title: Using Python to Save the VPN-SessionDB of a Cisco ASA Firewall to an Excel Spreadsheet
 description: Use network automation tools to accelerate data collection and
   manipulation for operating and troubleshooting the old and the new VPN environments.
-lead: This is the way. One of them, at least.
-summary: Use network automation tools to accelerate data collection and
-  manipulation for operating and troubleshooting the old and the new VPN environments.
+summary: This is the way. One of them, at least.
+# summary: Use network automation tools to accelerate data collection and
+#   manipulation for operating and troubleshooting the old and the new VPN environments.
 date: 2020-05-03T16:40:31-06:00
-thumbnail: /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.jpg
-images:
-  - /images/using-python-to-save-the-vpn-sessiondb-of-a-cisco-asa-firewall-to-an-excel-spreadsheet.jpg
 categories:
   - Automation
 tags:
   - Automation
 ---
 ---
+{{< lead >}}
+This is the way. One of them, at least.
+{{< /lead >}}
+
 As with many other networking professionals around the globe, Covid-19 caused me to drop all projects to design and deploy augmentations to remote access VPN solutions for my customers. Implementations of new Cisco ASA firewalls were fast and successful, but the work did not stop there.
 
 This post shares how I used network automation tools to accelerate data collection and manipulation for operating and troubleshooting the old and the new VPN environments.

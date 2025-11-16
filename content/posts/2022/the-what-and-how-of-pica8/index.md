@@ -3,13 +3,10 @@ draft: false
 title: The What and How of Pica8
 description: Pica8 presented at Networking Field Day 28 to display why their system
   could be viable for keeping corporate initiatives and supporting IT projects on track.
-lead: Simple and flexible
-summary: Pica8 presented at Networking Field Day 28 to display why their system
-  could be viable for keeping corporate initiatives and supporting IT projects on track.
+summary: Simple and flexible
+# summary: Pica8 presented at Networking Field Day 28 to display why their system
+#   could be viable for keeping corporate initiatives and supporting IT projects on track.
 date: 2022-06-04T10:20:25-06:00
-thumbnail: /images/the-what-and-how-of-pica8.jpg
-images:
-  - /images/the-what-and-how-of-pica8.jpg
 categories:
   - Events
 tags:
@@ -19,6 +16,10 @@ tags:
   - TFD
 ---
 ---
+{{< lead >}}
+Simple and flexible
+{{< /lead >}}
+
 Supply chain issues, mainly caused by the Covid-19 pandemic, have increased delivery times of some network gear to a level where organizations are exploring options away from their traditional vendors. Not wanting to let a crisis go to waste, Pica8 presented at [Networking Field Day 28](https://techfieldday.com/event/nfd28/) to display why their system could be viable for keeping corporate initiatives and supporting IT projects on track.
 
 Here are a couple of points that resonated with me during NFD28.

@@ -3,13 +3,10 @@ draft: false
 title: Security Field Day 6 - FIDO Device Onboard (FDO)
 description: Onboarding IoT devices is a significant challenge in the industry. It
   is expensive because it can take anywhere from twenty minutes to several hours...
-lead: Solving the IoT device onboarding problem
-summary: Onboarding IoT devices is a significant challenge in the industry. It
-  is expensive because it can take anywhere from twenty minutes to several hours...
+summary: Solving the IoT device onboarding problem
+# summary: Onboarding IoT devices is a significant challenge in the industry. It
+#   is expensive because it can take anywhere from twenty minutes to several hours...
 date: 2021-10-31T17:09:37-06:00
-thumbnail: /images/security-field-day-6-fido-device-onboard-fdo.jpg
-images:
-  - /images/security-field-day-6-fido-device-onboard-fdo.jpg
 categories:
   - Events
 tags:
@@ -19,6 +16,10 @@ tags:
   - XFD
 ---
 ---
+{{< lead >}}
+Solving the IoT device onboarding problem
+{{< /lead >}}
+
 On October 21, 2021, Intel delivered three presentations to the delegates at Security Field Day 6. This post focuses on the presentation given by Richard Kerslake and Geoff Cooper, "[FIDO Device Onboard (FDO)](https://techfieldday.com/video/intel-fido-device-onboard-fdo/)," where they talked about securely and cost-effectively deploying Internet of Things (IoT) devices in industrial and enterprise environments.
 
 ## The Onboarding Problem

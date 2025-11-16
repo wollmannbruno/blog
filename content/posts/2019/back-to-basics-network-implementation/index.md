@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Back to Basics: Network Implementation"
 description: Now that the design phase of ACME Corporation’s new data centre network
   project has been completed, it is time for the implementation phase.
@@ -7,9 +7,6 @@ lead: Mission execution
 summary: Now that the design phase of ACME Corporation’s new data centre network
   project has been completed, it is time for the implementation phase.
 date: 2019-09-30T13:10:32-06:00
-thumbnail: /images/back-to-basics-network-implementation.jpg
-images:
-  - /images/back-to-basics-network-implementation.jpg
 categories:
   - Guest Blogs
 tags:

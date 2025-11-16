@@ -3,19 +3,20 @@ draft: false
 title: Twelve Steps to Recover Rusted Out Information Technology Departments
 description: Mission-critical IT systems that are “rusting out and at risk of failure”
   present a bevy of risks and problems.
-lead: Canada, we have a problem
-summary: Mission-critical IT systems that are “rusting out and at risk of failure”
-  present a bevy of risks and problems.
+summary: Canada, we have a problem
+# summary: Mission-critical IT systems that are “rusting out and at risk of failure”
+#   present a bevy of risks and problems.
 date: 2020-02-10T18:23:44-06:00
-thumbnail: /images/twelve-steps-to-recover-rusted-out-information-technology-departments.jpg
-images:
-  - /images/twelve-steps-to-recover-rusted-out-information-technology-departments.jpg
 categories:
   - Opinion
 tags:
   - Recovery
 ---
 ---
+{{< lead >}}
+Canada, we have a problem
+{{< /lead >}}
+
 Jordan Press, of The Canadian Press, published an article titled ["Federal IT systems at risk of ‘critical failure,’ Trudeau warned in memo."](https://www.nationalnewswatch.com/2020/02/01/memo-to-trudeau-federal-it-systems-at-risk-of-critical-failure/) In this article, he reveals the situation is so dire that even the Prime Minister of Canada, Justin Trudeau, has been briefed.
 
 This article really struck a nerve with me, and I had several reactions upon reading it. They started with anger and disappointment. Then morphed into acceptance with phrases like *Duh*, *No shit Sherlock,* and *Thank you Captain Obvious*. The final reaction was some thoughts that resulted in this post.

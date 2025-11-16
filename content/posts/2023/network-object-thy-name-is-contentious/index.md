@@ -3,13 +3,10 @@ draft: false
 title: Network Object, Thy Name is Contentious
 description: The world of Information Technology is not spared from the agony of the naming process.
   Discussions involving naming and numbering conventions can turn into...
-lead: Go Ahead, create a naming convention. I dare you.
-summary:  The world of Information Technology is not spared from the agony of the naming process.
-  Discussions involving naming and numbering conventions can turn into...
+summary: Go Ahead, create a naming convention. I dare you.
+# summary:  The world of Information Technology is not spared from the agony of the naming process.
+#   Discussions involving naming and numbering conventions can turn into...
 date: 2023-06-18T21:12:00-06:00
-thumbnail: images/network-object-thy-name-is-contentious.jpg
-images:
-  - images/network-object-thy-name-is-contentious.jpg
 categories:
   - Opinion
 tags:
@@ -17,6 +14,10 @@ tags:
   - Design
 ---
 ---
+{{< lead >}}
+Go Ahead, create a naming convention. I dare you.
+{{< /lead >}}
+
 Have you ever tried to name something - children, pets, a company, a product, etc.? How did it go? What was your process? How long did it take? Naming things can be hard.[^kids] In response to this apparent difficulty, many books have been published to help you name your offspring while countless websites will generate a name for almost anything else.
 
 [^kids]: However, my kids name their stuffies with the greatest of ease.

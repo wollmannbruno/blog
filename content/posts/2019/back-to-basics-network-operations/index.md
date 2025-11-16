@@ -1,13 +1,10 @@
 ---
-draft: false
+draft: true
 title: "Back to Basics: Network Operations"
 description: A few key ingredients are needed for effective network operations.
 lead: The hand-off
 summary: A few key ingredients are needed for effective network operations.
 date: 2019-10-07T13:11:03-06:00
-thumbnail: /images/back-to-basics-network-operations.jpg
-images:
-  - /images/back-to-basics-network-operations.jpg
 categories:
   - Guest Blogs
 tags:

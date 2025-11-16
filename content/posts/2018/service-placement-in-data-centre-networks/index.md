@@ -3,13 +3,10 @@ draft: false
 title: Service Placement in Data Centre Networks
 description: I've been on numerous data centre design projects over the last several years.
     Although there are many similarities between these projects, service...
-lead: Surprise, it's not random
-summary: I've been on numerous data centre design projects over the last several years.
-    Although there are many similarities between these projects, service...
+summary: Surprise, it's not random
+# summary: I've been on numerous data centre design projects over the last several years.
+#     Although there are many similarities between these projects, service...
 date: 2018-09-24T15:30:39-06:00
-thumbnail: images/services-placement-in-data-centre-networks.jpg
-images:
-  - images/services-placement-in-data-centre-networks.jpg
 categories:
   - Design
 tags:
@@ -19,6 +16,9 @@ aliases:
   - /2018/09/services-placement-data-centre-networks/
 ---
 ---
+{{< lead >}}
+Surprise, it's not random
+{{< /lead >}}
 
 I've been on numerous data centre design projects over the last several years. Although there are many similarities between these projects, service placement is always present and is the subject of this post.
 

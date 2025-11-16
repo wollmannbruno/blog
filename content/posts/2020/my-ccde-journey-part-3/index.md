@@ -2,12 +2,9 @@
 draft: false
 title: My CCDE Journey - Part 3
 description: We don't rise to the level of our expectations; we fall to the level of our training.
-lead: The big day
-summary: We don't rise to the level of our expectations; we fall to the level of our training.
+summary: The big day
+# summary: We don't rise to the level of our expectations; we fall to the level of our training.
 date: 2020-01-29T17:01:30-06:00
-thumbnail: images/my-ccde-journey-part-3.jpg
-images:
-  - images/my-ccde-journey-part-3.jpg
 categories:
   - Certification
   - Design
@@ -17,6 +14,10 @@ tags:
   - exam
 ---
 ---
+{{< lead >}}
+The big day
+{{< /lead >}}
+
 You have found the third and final installment in the series that documents my CCDE journey. This post is all about exam day.
 
 [Part 1]({{< relref "my-ccde-journey-part-1" >}}) provides information about the program.<br>

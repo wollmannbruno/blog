@@ -3,13 +3,10 @@ draft: false
 title: Networking Field Day 18 Wrap Up
 description: I had the honour of being selected as a delegate for Networking Field Day 18,
   \#NFD18 on Twitter. This was my first Tech Field Day event...
-lead: A Newbie at Networking Field Day
-summary: I had the honour of being selected as a delegate for Networking Field Day 18,
-  \#NFD18 on Twitter. This was my first Tech Field Day event...
+summary: A Newbie at Networking Field Day
+# summary: I had the honour of being selected as a delegate for Networking Field Day 18,
+#   \#NFD18 on Twitter. This was my first Tech Field Day event...
 date: 2018-07-21T17:29:03-06:00
-thumbnail: images/networking-field-day-18-wrap-up.jpg
-images:
-  - images/networking-field-day-18-wrap-up.jpg
 categories:
   - Events
 tags:
@@ -19,6 +16,9 @@ tags:
   - TFD
 ---
 ---
+{{< lead >}}
+A Newbie at Networking Field Day
+{{< /lead >}}
 
 I had the honour of being selected as a delegate for [Networking Field Day 18](https://techfieldday.com/event/nfd18/), #NFD18 on Twitter. This was my first Tech Field Day event, all of which are put on by the fine folks at Gestalt IT. For more information about the events and the people involved, check out the [Gestalt IT](https://gestaltit.com) and [Tech Field Day](https://techfieldday.com) websites.
 

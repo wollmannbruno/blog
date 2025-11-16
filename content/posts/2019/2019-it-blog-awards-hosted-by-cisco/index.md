@@ -2,18 +2,19 @@
 draft: false
 title: 2019 IT Blog Awards Hosted by Cisco
 description: For the second year in a row, Cisco is hosting an IT Blog Awards, and my blog is a finalist...
-lead: Please vote for my blog
-summary: For the second year in a row, Cisco is hosting an IT Blog Awards, and my blog is a finalist...
+summary: Please vote for my blog
+# summary: For the second year in a row, Cisco is hosting an IT Blog Awards, and my blog is a finalist...
 date: 2019-11-24T16:51:26-06:00
-thumbnail: /images/2019-it-blog-awards-hosted-by-cisco.jpg
-images:
-  - /images/2019-it-blog-awards-hosted-by-cisco.jpg
 categories:
   - General
 tags:
   - Awards
 ---
 ---
+{{< lead >}}
+Please vote for my blog
+{{< /lead >}}
+
 For the second year in a row, Cisco is hosting an [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html/) to show their appreciation for the impact independent tech bloggers have on the community. It is Cisco's way of recognizing this great community for the passion, creativity, and expertise they share throughout the year. There are six categories of blogs being recognized:
 
 - Best Analysis
