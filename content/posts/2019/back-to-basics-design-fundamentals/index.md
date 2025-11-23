@@ -3,9 +3,9 @@ draft: true
 title: "Back to Basics: Design Fundamentals"
 description: Network design fundamentals discussed in this post include the deliverables,
   the process, and some design considerations.
-lead: Mission objectives
-summary: Network design fundamentals discussed in this post include the deliverables,
-  the process, and some design considerations.
+summary: Mission objectives
+# summary: Network design fundamentals discussed in this post include the deliverables,
+#   the process, and some design considerations.
 date: 2019-09-05T13:09:53-06:00
 categories:
   - Series
@@ -14,6 +14,10 @@ tags:
   - Design
 ---
 ---
+{{< lead >}}
+Mission objectives
+{{< /lead >}}
+
 Following [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), Design is Next in this Back to Basics series. While the requirements reveal **why** the network will be built, the design shows **what** will be built.
 
 ACME Corporation is large enough, and this project is high-profile enough, to warrant a design team rather than having a single network architect responsible for the entire design. Additional team members are one junior network architect, one network operations resource, one security resource, and one business analyst. Resources from various application teams, as well as other infrastructure teams, will be consulted as required. Your responsibilities as a senior network architect are two-fold. One responsibility is to mentor the junior network architect. Your primary responsibility is to have the team create a network design that meets all mandatory requirements and as many optional requirements as possible, while staying within the constraints.
