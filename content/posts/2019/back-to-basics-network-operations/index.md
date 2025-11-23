@@ -6,11 +6,9 @@ lead: The hand-off
 summary: A few key ingredients are needed for effective network operations.
 date: 2019-10-07T13:11:03-06:00
 categories:
-  - Guest Blogs
+  - Series
 tags:
-  - Aruba
   - BacktoBasics
-  - GestaltIT
   - Operations
 ---
 ---
