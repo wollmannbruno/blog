@@ -18,7 +18,7 @@ tags:
 When things go wrong
 {{< /lead >}}
 
-This blog on Network Troubleshooting is the fifth in my Back to Basics series. The first four blogs covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), and [Network Operations]({{< relref "back-to-basics-network-operations" >}}).
+This post on Network Troubleshooting is the fifth in my Back to Basics series. The first four posts covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), and [Network Operations]({{< relref "back-to-basics-network-operations" >}}).
 
 Troubleshooting a problem is a great time to remember that the network is at the bottom of the Information Technology stack. This does not mean the network should be viewed as less important than other components in the stack. Quite the contrary, being at the bottom means it is the foundation for everything. The network is also uniquely positioned to view a problem from end to end.
 
@@ -76,5 +76,7 @@ Looking at the figures below, it should be clear that having multiple observatio
 ## We’re All in this Together
 
 The goal of Information Technology is to help make the business the best it can be. When problems occur in systems that support the business, all divisions of Information Technology need to step up and be part of the solution. For many reasons, this doesn’t always happen. In any situation, we can only control ourselves. Individual positivity, responsiveness, openness, and a sense of service go a long way toward building credibility, trust, and a high-performing team.
+
+The final post in this Back to Basics series discusses [the network lifecycle]({{< relref "back-to-basics-the-network-lifecycle" >}}).
 
 ---

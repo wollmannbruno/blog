@@ -58,7 +58,7 @@ The goal of the network is to meet business requirements. These requirements usu
 
 - Security
   - As a network will always be attacked at its weakest point, it’s essential to design for all three aspects of network security.
-  - Data-plane security deals with network admission, encryption and firewalls. Because many applications provide various forms of security, data-plane security is generally not the sole responsibility of the network. 
+  - Data-plane security deals with network admission, encryption and firewalls. Because many applications provide various forms of security, data-plane security is generally not the sole responsibility of the network.
   - Control-plane security addresses aspects such as routing protocol and first-hop redundancy protocol security.
   - Management-plane security concerns direct access to network devices and the systems that manage them.
 - Manageability

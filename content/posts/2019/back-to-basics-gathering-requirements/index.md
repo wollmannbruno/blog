@@ -36,7 +36,8 @@ Translating application requirements to network requirements is always tricky. O
 
 ### Legal Requirements
 
-Many industries are subject to legal compliance requirements, which can affect network design. Because ACME sells directly to its customers by accepting credit cards, it must comply with the Payment Card Industry (PCI) standard. 
+Many industries are subject to legal compliance requirements, which can affect network design. Because ACME sells directly to its customers by accepting credit cards, it must comply with the Payment Card Industry (PCI) standard.
+
 To ensure PCI is interpreted correctly, ACME’s privacy officer, Daffy Duck, should be consulted.
 
 ### Technical Requirements
@@ -47,6 +48,7 @@ ACME’s network monitoring systems provide detailed reports of bandwidth and tr
 ### Security Requirements
 
 It goes without saying that security should be included from the outset. An insecure network puts the business, and many livelihoods, at risk. Striking a balance between usability and security is difficult, as new attacks are invented every day. There are always tradeoffs when balancing usability and security.
+
 ACME’s Chief Information Security Officer (CISO), Yosemite Sam, is a shoot-first, ask-questions-later type. He would like to see systems locked down as tightly as possible, no matter what. It’s essential to have a conversation with him to soften this stance, as it’s not very user-friendly. What level of risk is Mr. Sam willing to accept on behalf of ACME Corporation to achieve balance?
 
 ### Documentation
@@ -60,6 +62,7 @@ Constraints can be just as crucial as requirements and can be found in any of th
 Requirements gathering is hard work. Change can be scary, and inaccurate requirements can be the result. Active listening during open conversations builds trust, helping alleviate the fear of change.
 
 It’s exciting to build a new network. It’s even more exciting when that network contributes to the business's success. Requirements gathering isn’t glamorous by any means, but it is an important task to perform to the best of your abilities, no matter the size of the network.
-Check back for the next post in this Back to Basics series, where we’ll discuss the design process.
+
+Check the next post in this Back to Basics series, where we discuss the [design process]({{< relref "back-to-basics-design-fundamentals" >}}).
 
 ---

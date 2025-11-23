@@ -12,11 +12,11 @@ tags:
   - Operations
 ---
 ---
-{{<lead >}}
+{{< lead >}}
 The hand-off
-{{</lead >}}
+{{< /lead >}}
 
-This blog on network operations is the fourth in my Back to Basics series. The first three blogs covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}).
+This post on network operations is the fourth in my Back to Basics series. The first three posts covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}).
 
 Once ACME Corporation’s data centre network has been implemented, it will need care and feeding, which consists of operations and optimizations. There are a few key ingredients to successful network operations.
 
@@ -50,8 +50,7 @@ An NVF can place tools inline with production traffic, allowing tools such as se
 
 Using virtual TAPs, an NVF can TAP into virtualized environments that have historically been challenging to troubleshoot.
 
-IPFIX generation can be very resource-intensive on network devices, and sending IPFIX statistics to a collector consumes bandwidth. Offloading 
-IPFIX generation to the NVF removes both problems.
+IPFIX generation can be very resource-intensive on network devices, and sending IPFIX statistics to a collector consumes bandwidth. Offloading IPFIX generation to the NVF removes both problems.
 
 Figure 1 displays what an NVF would look like in ACME’s data centre network. The green lines show where TAPs have been installed in the traffic path and are cabled to a central collector or packet broker. The orange lines show how traffic from the packet broker is sent to the appropriate tools.
 
