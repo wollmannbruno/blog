@@ -70,7 +70,7 @@ With that in mind, be prepared to return to the Gathering Requirements phase to 
 Rather than a waterfall approach or a straight line through the phases, expect the paths to be well-worn in both directions and resemble the diagram below.
 
 ![Iterative](cycle.png "Iterative")
- 
-Now that we have an approved low-level design document, check back for the next post in this Back to Basics series, where we’ll discuss the deployment.
+
+Now that we have an approved low-level design document, [implementation]({{< relref "back-to-basics-network-implementation" >}}) is next.
 
 ---
