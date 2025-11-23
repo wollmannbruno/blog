@@ -2,8 +2,8 @@
 draft: true
 title: "Back to Basics: Network Operations"
 description: A few key ingredients are needed for effective network operations.
-lead: The hand-off
-summary: A few key ingredients are needed for effective network operations.
+summary: The hand-off
+# summary: A few key ingredients are needed for effective network operations.
 date: 2019-10-07T13:11:03-06:00
 categories:
   - Series
@@ -12,6 +12,9 @@ tags:
   - Operations
 ---
 ---
+{{<lead >}}
+The hand-off
+{{</lead >}}
 
 This blog on network operations is the fourth in my Back to Basics series. The first three blogs covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}).
 
