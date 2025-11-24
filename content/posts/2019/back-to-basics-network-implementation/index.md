@@ -19,7 +19,7 @@ tags:
 Mission execution
 {{< /lead >}}
 
-This post on network implementation is the third in my Back to Basics series. The first post, [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), focuses on **why** the network is built. The second, [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), focuses on **what** is built. This one focuses on **how** the network is built.
+*This post on network implementation is the third in my Back to Basics series. The first post, [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), focuses on **why** the network is built. The second, [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), focuses on **what** is built. This one focuses on **how** the network is built.*
 
 The goal of ACME Corporation’s data centre migration project is to migrate all existing applications and services from the existing data centre to a new one. To accomplish this, a few tasks with deliverables exist in this phase of the project.
 

@@ -18,7 +18,7 @@ tags:
 Mission objectives
 {{< /lead >}}
 
-Following [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), Design is Next in this Back to Basics series. While the requirements reveal **why** the network will be built, the design shows **what** will be built.
+*Following [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), Design is next in this Back to Basics series. While the requirements reveal **why** the network will be built, the design shows **what** will be built.*
 
 ACME Corporation is large enough, and this project is high-profile enough, to warrant a design team rather than having a single network architect responsible for the entire design. Additional team members are one junior network architect, one network operations resource, one security resource, and one business analyst. Resources from various application teams, as well as other infrastructure teams, will be consulted as required. Your responsibilities as a senior network architect are two-fold. One responsibility is to mentor the junior network architect. Your primary responsibility is to have the team create a network design that meets all mandatory requirements and as many optional requirements as possible, while staying within the constraints.
 
@@ -47,8 +47,8 @@ The goal of the network is to meet business requirements. These requirements usu
 - Scalability
   - How much and how fast will the network grow in the future? Scalability is commonly achieved through a combination of hierarchy and modularity.
   - Hierarchy
-  - One need look no further than a corporate structure to see how hierarchy adds scalability to a system. ACME Corporation has 10,000 employees. Without hierarchy in the organizational structure, Porky Pig, the CEO, would have 9,999 direct reports. Since no CEO can scale to that level, 14 vice presidents report directly to Porky. Each of these VPs also has a small collection of direct reports that adds another layer of hierarchy and scalability.
-  - This same principle applies to networks as well. In the figure “Without Hierarchy”, each A node has five connections, 1 to each of the other A nodes. If an additional A node is needed in the future, all other A nodes need to be modified. In the figure “With Hierarchy”, the B nodes add a level of hierarchy to the network. Adding an A node in this network means that only the B nodes need to be modified. A hierarchical network is more scalable than a network without hierarchy.
+    - One need look no further than a corporate structure to see how hierarchy adds scalability to a system. ACME Corporation has 10,000 employees. Without hierarchy in the organizational structure, Porky Pig, the CEO, would have 9,999 direct reports. Since no CEO can scale to that level, 14 vice presidents report directly to Porky. Each of these VPs also has a small collection of direct reports that adds another layer of hierarchy and scalability.
+    - This same principle applies to networks as well. In the figure “Without Hierarchy”, each A node has five connections, 1 to each of the other A nodes. If an additional A node is needed in the future, all other A nodes need to be modified. In the figure “With Hierarchy”, the B nodes add a level of hierarchy to the network. Adding an A node in this network means that only the B nodes need to be modified. A hierarchical network is more scalable than a network without hierarchy.
 
 ![Without Hierarchy](without-hierarchy.png "Without Hierarchy")![With Hierarchy](with-hierarchy.png "With Hierarchy")
 

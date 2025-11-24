@@ -18,7 +18,7 @@ tags:
 When things go wrong
 {{< /lead >}}
 
-This post on Network Troubleshooting is the fifth in my Back to Basics series. The first four posts covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), and [Network Operations]({{< relref "back-to-basics-network-operations" >}}).
+*This post on Network Troubleshooting is the fifth in my Back to Basics series. The first four posts covered [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), and [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), and [Network Operations]({{< relref "back-to-basics-network-operations" >}}).*
 
 Troubleshooting a problem is a great time to remember that the network is at the bottom of the Information Technology stack. This does not mean the network should be viewed as less important than other components in the stack. Quite the contrary, being at the bottom means it is the foundation for everything. The network is also uniquely positioned to view a problem from end to end.
 
@@ -57,7 +57,7 @@ While these examples are not specific to troubleshooting, they are simple and ha
 
 ## Divide and Conquer
 
-In this Network Operations post, I discussed the importance of network visibility tools. Troubleshooting problems is where these tools can shine. If network visibility had been built in from day one, the tools might have already captured the symptoms, allowing for immediate analysis. If not, collecting and analyzing evidence may have to wait until the problem occurs again. Waiting for tools to be installed and configured can extend problem resolution for intermittent issues.
+In the [Network Operations]({{< relref "back-to-basics-network-operations" >}}) post, I discussed the importance of network visibility tools. Troubleshooting problems is where these tools can shine. If network visibility had been built in from day one, the tools might have already captured the symptoms, allowing for immediate analysis. If not, collecting and analyzing evidence may have to wait until the problem occurs again. Waiting for tools to be installed and configured can extend problem resolution for intermittent issues.
 
 Looking at the figures below, it should be clear that having multiple observation points in the network makes it easier to pinpoint the problem. *Figure 1* has a single observation point. Depending on the symptoms, it may be hard to tell if the problem is to the right or to the left of this point. *Figure 2* displays two observation points. Depending on the symptoms, it should be easier to tell if the problem is to the right of both points, to the left of both points, or somewhere in between. Adding more observation points shrinks the search area more quickly.
 

@@ -18,7 +18,7 @@ tags:
 Rinse and repeat
 {{< /lead >}}
 
-This post on The Network Lifecycle is the sixth and final post in this Back to Basics series. [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), [Network Operations]({{< relref "back-to-basics-network-operations" >}}) and, [Troubleshooting]({{< relref "back-to-basics-network-troubleshooting" >}}).
+*This post on The Network Lifecycle is the sixth and final post in this Back to Basics series. [Gathering Requirements]({{< relref "back-to-basics-gathering-requirements" >}}), [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), [Network Implementation]({{< relref "back-to-basics-network-implementation" >}}), [Network Operations]({{< relref "back-to-basics-network-operations" >}}) and, [Troubleshooting]({{< relref "back-to-basics-network-troubleshooting" >}}).*
 
 It is generally accepted that every network has a lifecycle and that a model can represent this lifecycle. Whether you use the six-step model shown in *Figure 1*, the three-step model depicted in *Figure 2*, or something completely different, all models share common elements.
 
@@ -38,7 +38,7 @@ It is often challenging to decide on which box of a model to place the elements 
 
 ## Information Gathering
 
-The most apparent form of information to gather is requirements. The first post in this series discussed gathering requirements to design the initial build. Truth be told, requirements gathering never stops. Business requirements tend to morph over time, and so do the applications that the business relies on. The network needs to keep pace with these changes.
+The most apparent form of information to gather is requirements. The [first post]({{< relref "back-to-basics-gathering-requirements" >}}) in this series discussed gathering requirements to design the initial build. Truth be told, requirements gathering never stops. Business requirements tend to morph over time, and so do the applications that the business relies on. The network needs to keep pace with these changes.
 
 Information about existing and newly built networks should also be gathered. Day-to-day information should include Central Processing Unit (CPU) utilization, bandwidth utilization, memory utilization, bit error rate, and packet drops, among others. Failure analysis reports are also critical for improving the system.
 
@@ -52,7 +52,7 @@ Business and application requirements usually require the most elbow grease. Thi
 
 ## Architecture and Design
 
-The second post in this series, Network Design, discussed creating high-level and low-level design documents. The high-level document is called the architecture, while the low-level document is called the design. Depending on the organization and its division of labour, different resources might be responsible for producing each document, or the same resource might produce both. Not surprisingly, these resources are responsible for turning technical information into network architectures and designs.
+The second post in this series, [Network Design]({{< relref "back-to-basics-design-fundamentals" >}}), discussed creating high-level and low-level design documents. The high-level document is called the architecture, while the low-level document is called the design. Depending on the organization and its division of labour, different resources might be responsible for producing each document, or the same resource might produce both. Not surprisingly, these resources are responsible for turning technical information into network architectures and designs.
 
 New information gathered from the business or an existing network should always be reviewed by architecture and design resources to determine whether a change or optimization is required. Staying true to this process should help create and maintain consistency. A consistent network experience benefits the business, its applications, its users, and the resources tasked with its maintenance and operations.
 
