@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Back to Basics: the Network Lifecycle"
 description: This is the sixth and final post in the Back to Basics series.
   This post discusses why a networker’s work is never done.

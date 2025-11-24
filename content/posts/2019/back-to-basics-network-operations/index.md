@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Back to Basics: Network Operations"
 description: A few key ingredients are needed for effective network operations.
 summary: The hand-off

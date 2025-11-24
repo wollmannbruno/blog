@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Back to Basics: Network Troubleshooting"
 description: Accusing someone’s system of being the root cause of a problem can have the
   same effect as calling their baby ugly.

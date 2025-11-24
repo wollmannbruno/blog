@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Back to Basics: Gathering Requirements"
 description: Your mission, should you choose to accept it, is to be the lead network
   architect for a data centre migration project for ACME Corporation.

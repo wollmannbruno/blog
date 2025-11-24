@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Back to Basics: Design Fundamentals"
 description: Network design fundamentals discussed in this post include the deliverables,
   the process, and some design considerations.
