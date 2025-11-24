@@ -54,11 +54,11 @@ This page contains links to content I have produced or events I have participate
 ## Sponsored Content
 
 - [orangematter](https://orangematter.solarwinds.com)
-  - ITSM: The Tie That Binds > [orangematter](https://orangematter.solarwinds.com/2019/11/15/itsm-the-tie-that-binds/)
-  - ITSM: A Conversation With Garry Schmidt (Part 1 of 3) > [orangematter](https://orangematter.solarwinds.com/2019/12/02/itsm-a-conversation-with-garry-schmidt/)
-  - ITSM: A Conversation With Garry Schmidt (Part 2 of 3) > [orangematter](https://orangematter.solarwinds.com/2019/12/04/itsm-a-conversation-with-garry-schmidt-part-2/)
-  - ITSM: A Conversation With Garry Schmidt (Part 3 of 3) > [orangematter](https://orangematter.solarwinds.com/2019/12/09/itsm-a-conversation-with-garry-schmidt-part-3/)
-  - ITSM: The 4 Wins of Lean > [orangematter](https://orangematter.solarwinds.com/2020/01/13/itsm-the-4-wins-of-lean/)
+  - [ITSM: The Tie That Binds](https://orangematter.solarwinds.com/2019/11/15/itsm-the-tie-that-binds/)
+  - [ITSM: A Conversation With Garry Schmidt (Part 1 of 3)](https://orangematter.solarwinds.com/2019/12/02/itsm-a-conversation-with-garry-schmidt/)
+  - [ITSM: A Conversation With Garry Schmidt (Part 2 of 3)](https://orangematter.solarwinds.com/2019/12/04/itsm-a-conversation-with-garry-schmidt-part-2/)
+  - [ITSM: A Conversation With Garry Schmidt (Part 3 of 3)](https://orangematter.solarwinds.com/2019/12/09/itsm-a-conversation-with-garry-schmidt-part-3/)
+  - [ITSM: The 4 Wins of Lean](https://orangematter.solarwinds.com/2020/01/13/itsm-the-4-wins-of-lean/)
 - [Gestalt IT](https://gestaltit.com)
   - [Cisco Defense Orchestrator: Effective Security Policy Management Made Simple](https://gestaltit.com/exclusive/bwollmann/cisco-defense-orchestrator-effective-security-policy-management-made-simple/)
   - [VMware SD-WAN by VeloCloud: The Path to a Healthier WAN](https://gestaltit.com/tech-talks/vmware/bwollmann/sd-wan-by-velocloud-the-path-to-a-healthier-wan/)
