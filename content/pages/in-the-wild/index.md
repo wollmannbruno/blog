@@ -60,7 +60,7 @@ This page contains links to content I have produced or events I have participate
   - [ITSM: A Conversation With Garry Schmidt (Part 3 of 3)](https://orangematter.solarwinds.com/2019/12/09/itsm-a-conversation-with-garry-schmidt-part-3/)
   - [ITSM: The 4 Wins of Lean](https://orangematter.solarwinds.com/2020/01/13/itsm-the-4-wins-of-lean/)
 - [Gestalt IT](https://gestaltit.com)
-  - [Cisco Defense Orchestrator: Effective Security Policy Management Made Simple](https://gestaltit.com/exclusive/bwollmann/cisco-defense-orchestrator-effective-security-policy-management-made-simple/)
+  - [Cisco Defense Orchestrator: Effective Security Policy Management Made Simple](https://techstrong.it/featured/cisco-defense-orchestrator-effective-security-policy-management-made-simple/)
   - [VMware SD-WAN by VeloCloud: The Path to a Healthier WAN](https://gestaltit.com/tech-talks/vmware/bwollmann/sd-wan-by-velocloud-the-path-to-a-healthier-wan/)
   - [VMware SD-WAN and Edge Network Intelligence for Healthcare](https://gestaltit.com/tech-talks/vmware/bwollmann/vmware-sd-wan-and-edge-network-intelligence-for-healthcare/)
   - [3rd Gen Intel Xeon Scalable Platform: What Will You Solve For?](https://gestaltit.com/tech-talks/intel/intel-2021/bwollmann/3rd-gen-intel-xeon-scalable-platform-what-will-you-solve-for/)
