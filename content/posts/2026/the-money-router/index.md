@@ -142,7 +142,7 @@ Credit card float, HELOC, and overdraft protection are no longer part of my voca
 
 My kids start learning these fundamentals by joining the family economy when they're eight. It's a big deal in our family because that's when they open a bank account, gain access to [YNAB](https://ynab.com/referral/?ref=Y5iyxaPqWrGjP7oj&sponsor_name=Bruno&utm_source=customer_referral), get an email address, learn to use a password manager, and get paid for doing chores.
 
-If you're looking to change how you do money, give [The Money Router](https://ynab.com/referral/?ref=Y5iyxaPqWrGjP7oj&sponsor_name=Bruno&utm_source=customer_referral) a try. There's a 34-day free trial; no credit card required.
+If you're looking to transmogrify how you do money, give [The Money Router](https://ynab.com/referral/?ref=Y5iyxaPqWrGjP7oj&sponsor_name=Bruno&utm_source=customer_referral) a try. There's a 34-day free trial; no credit card required.
 
 ---
 > **Disclosure:** I am not affiliated with YNAB and was not paid to write this post. However, some of the links in this post are part of YNAB's referral program. Every subscriber automatically receives a referral link. If you subscribe to YNAB using [my link](https://ynab.com/referral/?ref=Y5iyxaPqWrGjP7oj&sponsor_name=Bruno&utm_source=customer_referral), we each earn a free month. [Here it is again in case you missed it 😉](https://ynab.com/referral/?ref=Y5iyxaPqWrGjP7oj&sponsor_name=Bruno&utm_source=customer_referral).
