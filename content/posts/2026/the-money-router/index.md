@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: The Money Router
 description: I used to be bad at money. I figured out how to get good at money
   with the help of YNAB.
