@@ -30,6 +30,23 @@ Because I'm self-employed, I'm open to discovering how I might help your busines
 
 I'm usually bound by some form of an electronic leash, so I'm pretty easy to reach.
 
-[![LinkedIn](linkedin.png)](https://linkedin.com/in/wollmannbruno/) [![Masked email](email.png)](mailto:agile.plan4376@fastmail.com)
+<!-- markdownlint-disable MD034 -->
+{{< gallery >}}
+  {{< figure
+      src="linkedin.png"
+      alt="LinkedIn"
+      figureClass="grid-w10"
+      href="https://linkedin.com/in/wollmannbruno/"
+      nozoom=true
+      >}}
+  {{< figure
+      src="email.png"
+      alt="Masked email"
+      figureClass="grid-w10"
+      href="mailto:agile.plan4376@fastmail.com"
+      nozoom=true
+      >}}
+{{< /gallery >}}
+<!-- markdownlint-enable MD034 -->
 
 ---

@@ -18,10 +18,38 @@ Since graduating from the University of Regina with a Bachelor of Science in Com
 
 In addition to designing, architecting, and implementing network solutions, I love troubleshooting networks and applications. Any day I get to perform packet analysis is a good day - at least, it's a good day for me 😉
 
-[![Cisco Certified Design Expert logo](ccde_design_large.jpg)](https://www.credly.com/badges/a41d79f9-54ee-40be-b1ce-c194a14a5515/public_url "Cisco Certified Design Expert")
-[![CCIE Routing and Switching logo](ccie_routeswitch_large.jpg)](https://www.credly.com/badges/c8d99fbc-0880-4b48-ba8a-5e067961ec98/public_url "CCIE Routing and Switching")
-![CCIE 15 Years logo](CCIE_15_UseLogo.jpg "CCIE 15 Years")
-[![Logo for The Open Group Architecture Framework certification - TOGAF 9](the-open-group-certified-togaf-9-certified.png)](https://www.credly.com/badges/15acdf77-3141-4ed3-8eaa-909a532c9aab/public_url "The Open Group Architecture Framework certification - TOGAF 9")
+<!-- markdownlint-disable MD034 -->
+{{< gallery >}}
+  {{< figure
+      src="ccde_design_large.jpg"
+      alt="Cisco Certified Design Expert logo"
+      figureClass="grid-w25"
+      href="https://www.credly.com/badges/a41d79f9-54ee-40be-b1ce-c194a14a5515/public_url"
+      nozoom=true
+      >}}
+  {{< figure
+      src="ccie_routeswitch_large.jpg"
+      alt="CCIE Routing and Switching logo"
+      figureClass="grid-w25"
+      href="https://www.credly.com/badges/c8d99fbc-0880-4b48-ba8a-5e067961ec98/public_url"
+      nozoom=true
+      >}}
+  {{< figure
+      src="CCIE_15_UseLogo.jpg"
+      alt="CCIE 15 Years logo"
+      figureClass="grid-w25"
+      href="https://www.credly.com/badges/c8d99fbc-0880-4b48-ba8a-5e067961ec98/public_url"
+      nozoom=true
+      >}}
+  {{< figure
+      src="the-open-group-certified-togaf-9-certified.png"
+      alt="Logo for The Open Group Architecture Framework certification - TOGAF 9"
+      figureClass="grid=w25"
+      href="https://www.credly.com/badges/15acdf77-3141-4ed3-8eaa-909a532c9aab/public_url"
+      nozoom=true
+      >}}
+{{< /gallery >}}
+<!-- markdownlint-enable MD034 -->
 
 ## SITE INFORMATION
 
@@ -41,7 +69,23 @@ When I'm not in front of a computer, I can usually be found outdoors with the mo
 
 ---
 
-![Logo for the Cisco Champions 2019 program](Cisco-Champion-2019.jpg "Cisco Champion 2019")
-![Logo for the IT Blog Awards](ITBlogAwards_2019_Badge-Finalist-BestCertStudy.png "IT Blog Awards Finalist")
+<!-- markdownlint-disable MD034 -->
+{{< gallery >}}
+  {{< figure
+      src="Cisco-Champion-2019.jpg"
+      alt="Logo for the Cisco Champions 2019 program"
+      caption="Cisco Champion 2019"
+      figureClass="grid-w25"
+      nozoom=true
+      >}}
+  {{< figure
+      src="ITBlogAwards_2019_Badge-Finalist-BestCertStudy.png"
+      alt="Logo for the IT Blog Awards"
+      caption="IT Blog Awards Finalist"
+      figureClass="grid-w25"
+      nozoom=true
+      >}}
+{{< /gallery >}}
+<!-- markdownlint-enable MD034 -->
 
 ---
