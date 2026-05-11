@@ -2,10 +2,7 @@
 draft: false
 title: About
 description: The About page for brunowollmann.com 
-date: 
-thumbnail: /images/about.jpg
-images:
-  - /images/about.jpg
+date: 2018-03-13T14:36:51-06:00
 menu:
   - main
   - footer

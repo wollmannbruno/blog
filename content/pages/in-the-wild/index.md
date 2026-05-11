@@ -3,10 +3,7 @@ draft: false
 title: In the Wild
 description: This page contains links to content I have produced or events I have
   participated in that are not hosted on this website.
-date: 
-thumbnail: /images/in-the-wild.jpg
-images:
-  - /images/in-the-wild.jpg
+date: 2018-03-13T14:36:51-06:00
 menu:
   - main
   - footer

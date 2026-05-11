@@ -2,10 +2,7 @@
 draft: true
 title: Blogroll
 description: Blogroll
-date:
-thumbnail: images/blogroll.jpg
-images:
-  - images/blogroll.jpg
+date: 2018-03-13T14:36:51-06:00
 menu:
   - main
   - footer

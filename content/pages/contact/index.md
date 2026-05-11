@@ -2,10 +2,7 @@
 draft: false
 title: Contact
 description: The contact page for brunowollmann.com
-date: 
-thumbnail: /images/contact.jpg
-images:
- - /images/contact.jpg
+date: 2018-03-13T14:36:51-06:00
 menu:
   - main
   - footer
