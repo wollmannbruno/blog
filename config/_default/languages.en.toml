@@ -12,7 +12,7 @@ title = "Bruno Wollmann on Networking"
   logo = "img/Logo.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Bruno Wollmann on Networking"
-  copyright = "&copy; 2018-{ year } Bruno Wollmann."
+  copyright = "&copy; 2018-{ year } Bruno Wollmann"
 
 [params.author]
   name = "Bruno Wollmann"
