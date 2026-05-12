@@ -28,6 +28,13 @@ In addition to designing, architecting, and implementing network solutions, I lo
       nozoom=true
       >}}
   {{< figure
+      src="ccde_design_large_scale_networks_expert_specialist_large.jpeg"
+      alt="Cisco Certified Design Expert Specialist - Large Scale Networks logo"
+      figureClass="grid-w25"
+      href="https://www.credly.com/badges/302e2194-4d93-4826-9550-226a923d2e8b/public_url"
+      nozoom=true
+      >}}
+  {{< figure
       src="ccie_routeswitch_large.jpg"
       alt="CCIE Routing and Switching logo"
       figureClass="grid-w25"
