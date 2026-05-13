@@ -6,4 +6,5 @@ cascade:
     showReadingTime: false
     showTableOfContents: false
     showWordCount: false
+    sharingLinks: false
 ---
