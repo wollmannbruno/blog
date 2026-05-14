@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Evolving Network Operations Nokias Event Driven Automation
+title: Evolving NetOps with Nokia’s Event-Driven Automation
 description: Nokia's event-driven automation enables networks to self-adjust in
   real-time, responding to various events without manual intervention.
 summary: Nokia's event-driven automation is transforming network operations.
