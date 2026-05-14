@@ -65,6 +65,11 @@
           "choices": [
             "https://via.placeholder.com/600x300/0288d1/000000?text=network-object-thy-name-is-contentious"
           ]
+        },
+        {
+          "title": "externalUrl",
+          "name": "externalUrl",
+          "type": "string"
         }
       ]
     }
