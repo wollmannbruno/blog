@@ -70,6 +70,15 @@
           "title": "externalUrl",
           "name": "externalUrl",
           "type": "string"
+        },
+        {
+          "title": "menu",
+          "name": "menu",
+          "type": "choice",
+          "choices": [
+            "main",
+            "footer"
+          ]
         }
       ]
     }
