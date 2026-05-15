@@ -22,7 +22,7 @@ disableImageZoom = true
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "northern_lights.jpg" # used as default for background images 
+defaultBackgroundImage = "img/northern_lights.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
