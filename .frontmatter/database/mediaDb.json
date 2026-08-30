@@ -1,1 +1,10 @@
-{"content":{"pages":{"about":{}}},"static":{"images":{}}}
+{
+  "content": {
+    "pages": {
+      "about": {}
+    }
+  },
+  "static": {
+    "images": {}
+  }
+}
